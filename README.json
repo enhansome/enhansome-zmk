@@ -417,7 +417,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72765
+            "stars": 72777
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36637
+            "stars": 36646
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28123
+            "stars": 28128
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2923
+            "stars": 2924
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2023-08-10T10:15:24Z",
             "owner": "moul",
             "repo": "awesome-ssh",
-            "stars": 2831
+            "stars": 2832
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "last_commit": "2026-02-27T16:57:28Z",
             "owner": "M165437",
             "repo": "nice-view-gem",
-            "stars": 387
+            "stars": 385
           }
         },
         {
@@ -1919,7 +1919,7 @@
             "last_commit": "2026-05-08T14:46:06Z",
             "owner": "rafaelromao",
             "repo": "keyboards",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -1933,7 +1933,7 @@
             "last_commit": "2026-05-08T14:46:06Z",
             "owner": "rafaelromao",
             "repo": "keyboards",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -2146,7 +2146,7 @@
                 "last_commit": "2025-10-10T01:34:27Z",
                 "owner": "nickcoutsos",
                 "repo": "keymap-editor",
-                "stars": 2061
+                "stars": 2062
               }
             },
             {
@@ -2160,7 +2160,7 @@
                 "last_commit": "2025-10-10T01:34:27Z",
                 "owner": "nickcoutsos",
                 "repo": "keymap-editor",
-                "stars": 2061
+                "stars": 2062
               }
             }
           ]
@@ -2252,7 +2252,7 @@
             "last_commit": "2026-08-07T12:00:05Z",
             "owner": "kot149",
             "repo": "zmk-battery-center",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -2491,7 +2491,7 @@
                 "last_commit": "2021-08-24T16:16:09Z",
                 "owner": "ploopyco",
                 "repo": "nano-trackball",
-                "stars": 557
+                "stars": 558
               }
             },
             {
@@ -2644,7 +2644,7 @@
             "last_commit": "2024-07-06T10:55:25Z",
             "owner": "diimdeep",
             "repo": "awesome-split-keyboards",
-            "stars": 5846
+            "stars": 5847
           }
         },
         {
@@ -2694,7 +2694,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-14T15:55:38Z",
+                "last_commit": "2026-08-14T19:45:40Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1406
@@ -2704,7 +2704,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T15:55:38Z",
+            "last_commit": "2026-08-14T19:45:40Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1406
@@ -2873,7 +2873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:30:17.252Z",
+    "last_updated": "2026-08-15T17:55:10.029Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
