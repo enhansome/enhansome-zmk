@@ -417,7 +417,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72777
+            "stars": 72783
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36646
+            "stars": 36647
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28128
+            "stars": 28130
           }
         },
         {
@@ -976,7 +976,7 @@
                 "last_commit": "2026-05-03T10:08:24Z",
                 "owner": "ZitaoTech",
                 "repo": "9981_BLE_USB_Keyboard_Pro",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -1905,7 +1905,7 @@
             "last_commit": "2025-11-22T00:05:38Z",
             "owner": "carrefinho",
             "repo": "prospector",
-            "stars": 781
+            "stars": 783
           }
         },
         {
@@ -2113,7 +2113,7 @@
             "last_commit": "2025-03-09T21:05:04Z",
             "owner": "joelspadin",
             "repo": "zmk-locale-generator",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -2181,7 +2181,7 @@
                 "last_commit": "2026-08-12T04:25:22Z",
                 "owner": "caksoylar",
                 "repo": "keymap-drawer",
-                "stars": 1311
+                "stars": 1312
               }
             }
           ]
@@ -2491,7 +2491,7 @@
                 "last_commit": "2021-08-24T16:16:09Z",
                 "owner": "ploopyco",
                 "repo": "nano-trackball",
-                "stars": 558
+                "stars": 557
               }
             },
             {
@@ -2520,20 +2520,6 @@
         },
         {
           "node_type": "item",
-          "title": "badjeff/moudabella-zmk-config",
-          "description": "This is the ZMK firmware config repository for moudabella, an open source bluetooth mouse 🐭 for CAD 🐱.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-18T12:34:36Z",
-            "owner": "badjeff",
-            "repo": "moudabella-zmk-config",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "george-norton/zmk-keyboard-ploopy",
           "description": "Work in progress ZMK firmware for Ploopy RP2040 devices",
           "children": [],
@@ -2543,6 +2529,20 @@
             "last_commit": "2026-02-12T19:48:13Z",
             "owner": "george-norton",
             "repo": "zmk-keyboard-ploopy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "badjeff/moudabella-zmk-config",
+          "description": "This is the ZMK firmware config repository for moudabella, an open source bluetooth mouse 🐭 for CAD 🐱.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-18T12:34:36Z",
+            "owner": "badjeff",
+            "repo": "moudabella-zmk-config",
             "stars": 6
           }
         },
@@ -2697,7 +2697,7 @@
                 "last_commit": "2026-08-14T19:45:40Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1406
+                "stars": 1407
               }
             }
           ],
@@ -2707,7 +2707,7 @@
             "last_commit": "2026-08-14T19:45:40Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1406
+            "stars": 1407
           }
         },
         {
@@ -2873,7 +2873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:55:10.029Z",
+    "last_updated": "2026-08-16T17:53:17.034Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
