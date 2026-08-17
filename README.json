@@ -133,7 +133,7 @@
             "last_commit": "2025-01-12T09:10:24Z",
             "owner": "aroum",
             "repo": "zmk-enki42-dongle",
-            "stars": 181
+            "stars": 180
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-08-01T12:31:35Z",
             "owner": "a741725193",
             "repo": "zmk-new_corne",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -355,7 +355,7 @@
             "last_commit": "2025-08-04T01:46:45Z",
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72783
+            "stars": 72800
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36647
+            "stars": 36658
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28130
+            "stars": 28138
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2924
+            "stars": 2927
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2026-05-21T23:11:52Z",
             "owner": "urob",
             "repo": "zmk-leader-key",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-04-06T20:53:10Z",
             "owner": "badjeff",
             "repo": "zmk-analog-input-driver",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1254,7 +1254,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2025-09-27T04:23:09Z",
+            "last_commit": "2026-08-17T11:39:32Z",
             "owner": "MickiusMousius",
             "repo": "zmk-ls0xxvcom-driver",
             "stars": 2
@@ -1471,7 +1471,7 @@
             "last_commit": "2026-01-26T15:54:26Z",
             "owner": "mctechnology17",
             "repo": "zmk-nice-oled",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -1771,7 +1771,7 @@
             "last_commit": "2026-02-17T04:07:43Z",
             "owner": "carrefinho",
             "repo": "prospector-zmk-module",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -1905,7 +1905,7 @@
             "last_commit": "2025-11-22T00:05:38Z",
             "owner": "carrefinho",
             "repo": "prospector",
-            "stars": 783
+            "stars": 786
           }
         },
         {
@@ -1919,7 +1919,7 @@
             "last_commit": "2026-05-08T14:46:06Z",
             "owner": "rafaelromao",
             "repo": "keyboards",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1933,7 +1933,7 @@
             "last_commit": "2026-05-08T14:46:06Z",
             "owner": "rafaelromao",
             "repo": "keyboards",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1975,7 +1975,7 @@
             "last_commit": "2024-07-22T16:51:01Z",
             "owner": "rain2813",
             "repo": "zmk-cygnus-oled",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -2181,7 +2181,7 @@
                 "last_commit": "2026-08-12T04:25:22Z",
                 "owner": "caksoylar",
                 "repo": "keymap-drawer",
-                "stars": 1312
+                "stars": 1313
               }
             }
           ]
@@ -2469,10 +2469,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-01-09T14:33:19Z",
+            "last_commit": "2026-08-17T17:06:24Z",
             "owner": "aroum",
             "repo": "ufa",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2596,7 +2596,7 @@
             "last_commit": "2025-08-04T01:46:45Z",
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2025-08-04T01:46:45Z",
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -2644,7 +2644,7 @@
             "last_commit": "2024-07-06T10:55:25Z",
             "owner": "diimdeep",
             "repo": "awesome-split-keyboards",
-            "stars": 5847
+            "stars": 5849
           }
         },
         {
@@ -2694,20 +2694,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-14T19:45:40Z",
+                "last_commit": "2026-08-17T16:57:31Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1407
+                "stars": 1408
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T19:45:40Z",
+            "last_commit": "2026-08-17T16:57:31Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -2775,7 +2775,7 @@
                 "last_commit": "2026-06-14T17:55:56Z",
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
-                "stars": 600
+                "stars": 599
               }
             }
           ]
@@ -2873,7 +2873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:53:17.034Z",
+    "last_updated": "2026-08-17T18:00:25.758Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
