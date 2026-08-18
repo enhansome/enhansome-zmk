@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T13:45:24Z",
+            "last_commit": "2026-08-18T17:47:45Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2025-06-27T07:10:12Z",
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 646
+            "stars": 647
           }
         },
         {
@@ -144,7 +144,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-04T22:46:14Z",
+            "last_commit": "2026-08-17T18:46:59Z",
             "owner": "caksoylar",
             "repo": "zmk-config",
             "stars": 139
@@ -186,7 +186,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-09T21:50:54Z",
+            "last_commit": "2026-08-18T00:22:05Z",
             "owner": "SethMilliken",
             "repo": "zmk-config",
             "stars": 63
@@ -214,7 +214,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T13:35:46Z",
+            "last_commit": "2026-08-18T04:38:28Z",
             "owner": "badjeff",
             "repo": "zmk-config",
             "stars": 24
@@ -369,7 +369,7 @@
             "last_commit": "2024-04-07T12:35:19Z",
             "owner": "maksimdrachov",
             "repo": "zephyr-rtos-tutorial",
-            "stars": 470
+            "stars": 471
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72800
+            "stars": 72817
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36658
+            "stars": 36663
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28138
+            "stars": 28142
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-05-21T03:06:00Z",
             "owner": "urob",
             "repo": "zmk-helpers",
-            "stars": 413
+            "stars": 414
           }
         },
         {
@@ -677,7 +677,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-08T03:49:40Z",
+            "last_commit": "2026-08-18T04:27:28Z",
             "owner": "badjeff",
             "repo": "zmk-hid-io",
             "stars": 15
@@ -2181,7 +2181,7 @@
                 "last_commit": "2026-08-12T04:25:22Z",
                 "owner": "caksoylar",
                 "repo": "keymap-drawer",
-                "stars": 1313
+                "stars": 1314
               }
             }
           ]
@@ -2644,7 +2644,7 @@
             "last_commit": "2024-07-06T10:55:25Z",
             "owner": "diimdeep",
             "repo": "awesome-split-keyboards",
-            "stars": 5849
+            "stars": 5850
           }
         },
         {
@@ -2694,20 +2694,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-17T16:57:31Z",
+                "last_commit": "2026-08-18T17:43:11Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1408
+                "stars": 1410
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T16:57:31Z",
+            "last_commit": "2026-08-18T17:43:11Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1408
+            "stars": 1410
           }
         },
         {
@@ -2873,7 +2873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:00:25.758Z",
+    "last_updated": "2026-08-18T17:59:39.758Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
