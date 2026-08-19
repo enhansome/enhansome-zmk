@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-19T12:46:07Z",
+                "last_commit": "2026-08-19T15:05:04Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1410
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-19T05:32:17Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72829
+                "stars": 72831
               }
             },
             {
@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 24297122,
                 "language": null,
-                "last_commit": "2026-08-18T20:54:04Z",
+                "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
                 "stars": 36668
@@ -499,7 +499,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28145
+                "stars": 28146
               }
             },
             {
@@ -1051,7 +1051,7 @@
                         "last_commit": "2025-02-12T05:28:43Z",
                         "owner": "ZitaoTech",
                         "repo": "HackberryPi-4B",
-                        "stars": 70
+                        "stars": 69
                       }
                     },
                     {
@@ -2324,7 +2324,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2063
                   }
                 },
                 {
@@ -2339,7 +2339,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2063
                   }
                 }
               ]
@@ -2916,7 +2916,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-19T12:46:07Z",
+                "last_commit": "2026-08-19T15:05:04Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1410
@@ -2927,7 +2927,7 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-19T12:46:07Z",
+            "last_commit": "2026-08-19T15:05:04Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1410
@@ -3100,7 +3100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:00:31.469Z",
+    "last_updated": "2026-08-19T17:56:57.353Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
