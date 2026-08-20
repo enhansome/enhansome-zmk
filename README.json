@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-19T15:05:04Z",
+                "last_commit": "2026-08-20T14:44:52Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1410
+                "stars": 1411
               }
             },
             {
@@ -91,10 +91,10 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-18T19:49:00Z",
+            "last_commit": "2026-08-20T14:03:52Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1365
+            "stars": 1368
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-04-07T16:56:42Z",
             "owner": "kumamuk-git",
             "repo": "zmk-config-roBa",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2024-12-11T22:51:16Z",
             "owner": "golioth",
             "repo": "awesome-zephyr-rtos",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-19T05:32:17Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72831
+                "stars": 72848
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36668
+                "stars": 36675
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28146
+                "stars": 28150
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-07T07:00:27Z",
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2928
+                "stars": 2931
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2023-08-10T10:15:24Z",
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2832
+                "stars": 2834
               }
             },
             {
@@ -569,7 +569,7 @@
                 "archived": false,
                 "id": 513259787,
                 "language": "C",
-                "last_commit": "2026-05-21T03:06:00Z",
+                "last_commit": "2026-08-20T03:32:16Z",
                 "owner": "urob",
                 "repo": "zmk-helpers",
                 "stars": 414
@@ -986,7 +986,7 @@
                     "last_commit": "2025-12-31T02:21:35Z",
                     "owner": "AYM1607",
                     "repo": "zmk-driver-azoteq-iqs5xx",
-                    "stars": 72
+                    "stars": 73
                   }
                 },
                 {
@@ -1509,7 +1509,7 @@
                     "archived": false,
                     "id": 955923020,
                     "language": "C",
-                    "last_commit": "2026-08-14T01:48:26Z",
+                    "last_commit": "2026-08-20T12:29:58Z",
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-non-lipo-battery-management",
                     "stars": 5
@@ -2130,7 +2130,7 @@
                         "last_commit": "2024-07-22T16:51:01Z",
                         "owner": "rain2813",
                         "repo": "zmk-cygnus-oled",
-                        "stars": 60
+                        "stars": 61
                       }
                     },
                     {
@@ -2361,7 +2361,7 @@
                     "last_commit": "2026-08-12T04:25:22Z",
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1314
+                    "stars": 1317
                   }
                 }
               ]
@@ -2743,21 +2743,6 @@
         },
         {
           "node_type": "item",
-          "title": "badjeff/moudabella-zmk-config",
-          "description": "This is the ZMK firmware config repository for moudabella, an open source bluetooth mouse 🐭 for CAD 🐱.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 885993437,
-            "language": null,
-            "last_commit": "2026-03-18T12:34:36Z",
-            "owner": "badjeff",
-            "repo": "moudabella-zmk-config",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "M-Tolbot/zmk-comfig-mouset",
           "description": "This keyboard/mouse hybrid is my vision of a split keyboard with trackball - Inspired by my Hertao mouse.",
           "children": [],
@@ -2768,6 +2753,21 @@
             "last_commit": "2025-10-08T08:54:51Z",
             "owner": "M-Tolbot",
             "repo": "zmk-comfig-mouset",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "badjeff/moudabella-zmk-config",
+          "description": "This is the ZMK firmware config repository for moudabella, an open source bluetooth mouse 🐭 for CAD 🐱.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885993437,
+            "language": null,
+            "last_commit": "2026-03-18T12:34:36Z",
+            "owner": "badjeff",
+            "repo": "moudabella-zmk-config",
             "stars": 6
           }
         },
@@ -2836,7 +2836,7 @@
                 "last_commit": "2025-03-14T13:11:14Z",
                 "owner": "zhiayang",
                 "repo": "mikoto",
-                "stars": 351
+                "stars": 352
               }
             }
           ],
@@ -2916,10 +2916,10 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-19T15:05:04Z",
+                "last_commit": "2026-08-20T14:44:52Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1410
+                "stars": 1411
               }
             }
           ],
@@ -2927,10 +2927,10 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-19T15:05:04Z",
+            "last_commit": "2026-08-20T14:44:52Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1410
+            "stars": 1411
           }
         },
         {
@@ -3002,7 +3002,7 @@
                 "last_commit": "2026-06-14T17:55:56Z",
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
-                "stars": 600
+                "stars": 601
               }
             }
           ]
@@ -3047,7 +3047,7 @@
             "last_commit": "2025-05-30T08:13:00Z",
             "owner": "dotintent",
             "repo": "awesome-ble",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -3100,7 +3100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:56:57.353Z",
+    "last_updated": "2026-08-20T18:00:28.328Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
