@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-20T14:44:52Z",
+                "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1411
@@ -91,10 +91,10 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-20T14:03:52Z",
+            "last_commit": "2026-08-21T15:45:37Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1368
+            "stars": 1367
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2025-06-27T07:10:12Z",
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 647
+            "stars": 646
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-01-11T12:24:13Z",
             "owner": "mctechnology17",
             "repo": "zmk-config",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -256,7 +256,7 @@
             "archived": false,
             "id": 738857747,
             "language": "C",
-            "last_commit": "2026-08-18T04:38:28Z",
+            "last_commit": "2026-08-21T13:14:37Z",
             "owner": "badjeff",
             "repo": "zmk-config",
             "stars": 24
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-08T03:29:19Z",
             "owner": "MickiusMousius",
             "repo": "RolioFirmware",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-19T05:32:17Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72848
+                "stars": 72864
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36675
+                "stars": 36681
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28150
+                "stars": 28148
               }
             },
             {
@@ -1274,7 +1274,7 @@
                     "last_commit": "2024-08-18T14:08:59Z",
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 236
+                    "stars": 237
                   }
                 },
                 {
@@ -1360,7 +1360,7 @@
                     "archived": false,
                     "id": 1061583165,
                     "language": "C",
-                    "last_commit": "2026-08-17T11:39:32Z",
+                    "last_commit": "2026-08-21T12:52:38Z",
                     "owner": "MickiusMousius",
                     "repo": "zmk-ls0xxvcom-driver",
                     "stars": 2
@@ -1599,7 +1599,7 @@
                 "last_commit": "2026-01-26T15:54:26Z",
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -1629,7 +1629,7 @@
                 "last_commit": "2024-09-13T19:32:34Z",
                 "owner": "GPeye",
                 "repo": "urchin-peripheral-animation",
-                "stars": 163
+                "stars": 164
               }
             },
             {
@@ -1644,7 +1644,7 @@
                 "last_commit": "2024-09-14T00:55:31Z",
                 "owner": "GPeye",
                 "repo": "hammerbeam-slideshow",
-                "stars": 104
+                "stars": 105
               }
             },
             {
@@ -1749,7 +1749,7 @@
                 "last_commit": "2026-08-08T03:29:19Z",
                 "owner": "MickiusMousius",
                 "repo": "RolioFirmware",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -2324,7 +2324,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2063
+                    "stars": 2062
                   }
                 },
                 {
@@ -2339,7 +2339,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2063
+                    "stars": 2062
                   }
                 }
               ]
@@ -2858,7 +2858,7 @@
                 "last_commit": "2024-07-06T10:55:25Z",
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5852
+                "stars": 5854
               }
             },
             {
@@ -2916,7 +2916,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-20T14:44:52Z",
+                "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1411
@@ -2927,7 +2927,7 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-20T14:44:52Z",
+            "last_commit": "2026-08-21T15:02:12Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1411
@@ -2980,7 +2980,7 @@
                 "last_commit": "2026-05-28T08:58:23Z",
                 "owner": "Keychron",
                 "repo": "zmk",
-                "stars": 45
+                "stars": 46
               }
             }
           ]
@@ -3100,7 +3100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:00:28.328Z",
+    "last_updated": "2026-08-21T18:01:18.465Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
