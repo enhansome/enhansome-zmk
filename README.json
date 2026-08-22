@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1411
+                "stars": 1412
               }
             },
             {
@@ -91,7 +91,7 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-21T15:45:37Z",
+            "last_commit": "2026-08-22T04:19:17Z",
             "owner": "urob",
             "repo": "zmk-config",
             "stars": 1367
@@ -466,10 +466,10 @@
                 "archived": false,
                 "id": 21935031,
                 "language": null,
-                "last_commit": "2026-08-19T05:32:17Z",
+                "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72864
+                "stars": 72875
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36681
+                "stars": 36688
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28148
+                "stars": 28152
               }
             },
             {
@@ -1360,7 +1360,7 @@
                     "archived": false,
                     "id": 1061583165,
                     "language": "C",
-                    "last_commit": "2026-08-21T12:52:38Z",
+                    "last_commit": "2026-08-22T12:29:34Z",
                     "owner": "MickiusMousius",
                     "repo": "zmk-ls0xxvcom-driver",
                     "stars": 2
@@ -2161,7 +2161,7 @@
                         "last_commit": "2026-03-06T04:12:57Z",
                         "owner": "joaopedropio",
                         "repo": "snake-dongle",
-                        "stars": 47
+                        "stars": 48
                       }
                     },
                     {
@@ -2324,7 +2324,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2061
                   }
                 },
                 {
@@ -2339,7 +2339,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2061
                   }
                 }
               ]
@@ -2677,7 +2677,7 @@
             "last_commit": "2026-08-17T17:06:24Z",
             "owner": "aroum",
             "repo": "ufa",
-            "stars": 40
+            "stars": 42
           }
         },
         {
@@ -2858,7 +2858,7 @@
                 "last_commit": "2024-07-06T10:55:25Z",
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5854
+                "stars": 5856
               }
             },
             {
@@ -2919,7 +2919,7 @@
                 "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1411
+                "stars": 1412
               }
             }
           ],
@@ -2930,7 +2930,7 @@
             "last_commit": "2026-08-21T15:02:12Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1411
+            "stars": 1412
           }
         },
         {
@@ -3100,7 +3100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:01:18.465Z",
+    "last_updated": "2026-08-22T17:55:41.045Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
