@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1412
+                "stars": 1413
               }
             },
             {
@@ -91,7 +91,7 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-22T04:19:17Z",
+            "last_commit": "2026-08-22T18:37:09Z",
             "owner": "urob",
             "repo": "zmk-config",
             "stars": 1367
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72875
+                "stars": 72891
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36688
+                "stars": 36696
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28152
+                "stars": 28159
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-07T07:00:27Z",
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2931
+                "stars": 2933
               }
             },
             {
@@ -1149,7 +1149,7 @@
                         "last_commit": "2026-06-18T15:03:30Z",
                         "owner": "badjeff",
                         "repo": "paw3395-pcb",
-                        "stars": 32
+                        "stars": 33
                       }
                     }
                   ],
@@ -1886,7 +1886,7 @@
                     "last_commit": "2026-02-21T17:19:44Z",
                     "owner": "englmaxi",
                     "repo": "zmk-dongle-display",
-                    "stars": 262
+                    "stars": 263
                   }
                 },
                 {
@@ -2070,7 +2070,7 @@
                         "last_commit": "2026-05-08T14:46:06Z",
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 492
+                        "stars": 494
                       }
                     },
                     {
@@ -2085,7 +2085,7 @@
                         "last_commit": "2026-05-08T14:46:06Z",
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 492
+                        "stars": 494
                       }
                     },
                     {
@@ -2100,7 +2100,7 @@
                         "last_commit": "2026-02-21T17:19:44Z",
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 262
+                        "stars": 263
                       }
                     },
                     {
@@ -2115,7 +2115,7 @@
                         "last_commit": "2026-02-21T17:19:44Z",
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 262
+                        "stars": 263
                       }
                     },
                     {
@@ -2259,7 +2259,7 @@
                 "last_commit": "2026-07-02T20:50:41Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
-                "stars": 312
+                "stars": 313
               }
             },
             {
@@ -2361,7 +2361,7 @@
                     "last_commit": "2026-08-12T04:25:22Z",
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1317
+                    "stars": 1318
                   }
                 }
               ]
@@ -2919,7 +2919,7 @@
                 "last_commit": "2026-08-21T15:02:12Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1412
+                "stars": 1413
               }
             }
           ],
@@ -2930,7 +2930,7 @@
             "last_commit": "2026-08-21T15:02:12Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1412
+            "stars": 1413
           }
         },
         {
@@ -2980,7 +2980,7 @@
                 "last_commit": "2026-05-28T08:58:23Z",
                 "owner": "Keychron",
                 "repo": "zmk",
-                "stars": 46
+                "stars": 47
               }
             }
           ]
@@ -3047,7 +3047,7 @@
             "last_commit": "2025-05-30T08:13:00Z",
             "owner": "dotintent",
             "repo": "awesome-ble",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -3100,7 +3100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:55:41.045Z",
+    "last_updated": "2026-08-23T17:54:12.244Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
