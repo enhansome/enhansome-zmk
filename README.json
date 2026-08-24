@@ -4,7 +4,37 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "ZMK GitHub Repository",
+          "description": "The source code and development hub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270692521,
+            "language": "C",
+            "last_commit": "2026-08-24T05:02:55Z",
+            "owner": "zmkfirmware",
+            "repo": "zmk",
+            "stars": 4236
+          }
+        },
+        {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Zephyr Project Code Repository on GitHub",
+              "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59771425,
+                "language": "C",
+                "last_commit": "2026-08-24T14:27:17Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "zephyr",
+                "stars": 16296
+              }
+            },
             {
               "node_type": "item",
               "title": "nRF Connect SDK (sdk-nrf)",
@@ -14,10 +44,10 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-21T15:02:12Z",
+                "last_commit": "2026-08-24T13:22:38Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1413
+                "stars": 1414
               }
             },
             {
@@ -33,6 +63,21 @@
                 "owner": "NordicDeveloperAcademy",
                 "repo": "ncs-fund",
                 "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jakkra/ZSWatch",
+              "description": "ZSWatch the Open Source Zephyr™ based Smartwatch, including both HW and FW.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048367968,
+                "language": "C",
+                "last_commit": "2026-04-22T10:19:36Z",
+                "owner": "jakkra",
+                "repo": "ZSWatch",
+                "stars": 82
               }
             }
           ],
@@ -91,7 +136,7 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-22T18:37:09Z",
+            "last_commit": "2026-08-24T05:32:44Z",
             "owner": "urob",
             "repo": "zmk-config",
             "stars": 1367
@@ -407,7 +452,7 @@
             "last_commit": "2025-08-04T01:46:45Z",
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -469,7 +514,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72891
+                "stars": 72908
               }
             },
             {
@@ -484,7 +529,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36696
+                "stars": 36701
               }
             },
             {
@@ -499,7 +544,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28159
+                "stars": 28162
               }
             },
             {
@@ -514,7 +559,7 @@
                 "last_commit": "2026-07-07T07:00:27Z",
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2933
+                "stars": 2934
               }
             },
             {
@@ -1338,6 +1383,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "badjeff/zmk-drv2605-driver",
+                  "description": "DRV2605 haptic feedback driver.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 798924864,
+                    "language": "C",
+                    "last_commit": "2024-09-21T22:06:45Z",
+                    "owner": "badjeff",
+                    "repo": "zmk-drv2605-driver",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Drivers Haptic"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "mctechnology17/zmk-oled-adapter",
                   "description": "use different OLED screen sizes without modifying code (for 128x32, 128x64 and 128x128 OLED screens)",
                   "children": [],
@@ -1373,6 +1440,21 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "[!NOTE] elpekenin/zmk-userspace",
+                  "description": "These drivers can be easily located here and not only in behaviors",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 772999408,
+                    "language": "C",
+                    "last_commit": "2026-07-07T10:28:26Z",
+                    "owner": "elpekenin",
+                    "repo": "zmk-userspace",
+                    "stars": 14
+                  }
+                },
                 {
                   "node_type": "item",
                   "title": "caksoylar/zmk-rgbled-widget",
@@ -1479,7 +1561,7 @@
                   }
                 }
               ],
-              "description": "[!NOTE] elpekenin/zmk-userspace These drivers can be easily located here and not only in behaviors",
+              "description": null,
               "node_type": "group",
               "title": "Drivers LEDS Backlight Underglow"
             },
@@ -1614,7 +1696,7 @@
                 "last_commit": "2026-02-27T16:57:28Z",
                 "owner": "M165437",
                 "repo": "nice-view-gem",
-                "stars": 385
+                "stars": 386
               }
             },
             {
@@ -1901,7 +1983,7 @@
                     "last_commit": "2026-03-19T13:37:31Z",
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
-                    "stars": 255
+                    "stars": 256
                   }
                 },
                 {
@@ -2055,7 +2137,7 @@
                         "last_commit": "2025-11-22T00:05:38Z",
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 786
+                        "stars": 787
                       }
                     },
                     {
@@ -2796,6 +2878,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "aroum/nRF52_Bootloader_custom_LED",
+              "description": "Contains various low-level modifications and hacks, such as converting the reset pin into a standard GPIO and implementing extended indication during Device Firmware Update (DFU) mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955520103,
+                "language": "C",
+                "last_commit": "2026-07-05T06:17:13Z",
+                "owner": "aroum",
+                "repo": "nRF52_Bootloader_custom_LED",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bootloader and Reset"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nRFMicro 1.1/1.2",
               "description": "Board:",
               "children": [],
@@ -2806,7 +2910,7 @@
                 "last_commit": "2025-08-04T01:46:45Z",
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1855
+                "stars": 1856
               }
             },
             {
@@ -2821,7 +2925,7 @@
                 "last_commit": "2025-08-04T01:46:45Z",
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1855
+                "stars": 1856
               }
             },
             {
@@ -2858,7 +2962,7 @@
                 "last_commit": "2024-07-06T10:55:25Z",
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5856
+                "stars": 5859
               }
             },
             {
@@ -2916,10 +3020,10 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-21T15:02:12Z",
+                "last_commit": "2026-08-24T13:22:38Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1413
+                "stars": 1414
               }
             }
           ],
@@ -2927,10 +3031,10 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-21T15:02:12Z",
+            "last_commit": "2026-08-24T13:22:38Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1413
+            "stars": 1414
           }
         },
         {
@@ -3100,7 +3204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:54:12.244Z",
+    "last_updated": "2026-08-24T14:34:19.713Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
