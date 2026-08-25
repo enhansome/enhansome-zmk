@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T05:03:32Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4236
+            "stars": 4237
           }
         },
         {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-25T00:12:58Z",
+                "last_commit": "2026-08-25T16:55:10Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16305
+                "stars": 16306
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-25T06:13:26Z",
+                "last_commit": "2026-08-25T14:37:02Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -139,7 +139,7 @@
             "last_commit": "2026-08-24T05:32:44Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-03-12T16:03:42Z",
             "owner": "sunaku",
             "repo": "glove80-keymaps",
-            "stars": 759
+            "stars": 760
           }
         },
         {
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 738857747,
             "language": "C",
-            "last_commit": "2026-08-21T13:14:37Z",
+            "last_commit": "2026-08-25T15:06:00Z",
             "owner": "badjeff",
             "repo": "zmk-config",
             "stars": 24
@@ -514,7 +514,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72922
+                "stars": 72932
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36707
+                "stars": 36709
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28164
+                "stars": 28160
               }
             },
             {
@@ -794,7 +794,7 @@
                 "archived": false,
                 "id": 766535534,
                 "language": "C",
-                "last_commit": "2026-08-25T05:28:21Z",
+                "last_commit": "2026-08-25T15:05:12Z",
                 "owner": "badjeff",
                 "repo": "zmk-hid-io",
                 "stars": 15
@@ -3020,7 +3020,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-25T06:13:26Z",
+                "last_commit": "2026-08-25T14:37:02Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -3031,7 +3031,7 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-25T06:13:26Z",
+            "last_commit": "2026-08-25T14:37:02Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1414
@@ -3151,7 +3151,7 @@
             "last_commit": "2025-05-30T08:13:00Z",
             "owner": "dotintent",
             "repo": "awesome-ble",
-            "stars": 147
+            "stars": 146
           }
         },
         {
@@ -3204,7 +3204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:05.301Z",
+    "last_updated": "2026-08-25T18:01:47.877Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
