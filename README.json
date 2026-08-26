@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T05:03:32Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4237
+            "stars": 4239
           }
         },
         {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-25T16:55:10Z",
+                "last_commit": "2026-08-26T19:16:43Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16306
+                "stars": 16315
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-25T14:37:02Z",
+                "last_commit": "2026-08-26T14:13:59Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -139,7 +139,7 @@
             "last_commit": "2026-08-24T05:32:44Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2025-06-27T07:10:12Z",
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 646
+            "stars": 647
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-07-02T07:43:46Z",
             "owner": "eigatech",
             "repo": "zmk-config",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72932
+                "stars": 72949
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36709
+                "stars": 36720
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28160
+                "stars": 28161
               }
             },
             {
@@ -617,7 +617,7 @@
                 "last_commit": "2026-08-20T03:32:16Z",
                 "owner": "urob",
                 "repo": "zmk-helpers",
-                "stars": 414
+                "stars": 415
               }
             },
             {
@@ -1111,7 +1111,7 @@
                         "last_commit": "2026-05-03T10:08:24Z",
                         "owner": "ZitaoTech",
                         "repo": "9981_BLE_USB_Keyboard_Pro",
-                        "stars": 26
+                        "stars": 27
                       }
                     },
                     {
@@ -1681,7 +1681,7 @@
                 "last_commit": "2026-01-26T15:54:26Z",
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 490
+                "stars": 489
               }
             },
             {
@@ -1696,7 +1696,7 @@
                 "last_commit": "2026-02-27T16:57:28Z",
                 "owner": "M165437",
                 "repo": "nice-view-gem",
-                "stars": 386
+                "stars": 385
               }
             },
             {
@@ -1711,7 +1711,7 @@
                 "last_commit": "2024-09-13T19:32:34Z",
                 "owner": "GPeye",
                 "repo": "urchin-peripheral-animation",
-                "stars": 164
+                "stars": 163
               }
             },
             {
@@ -1968,7 +1968,7 @@
                     "last_commit": "2026-02-21T17:19:44Z",
                     "owner": "englmaxi",
                     "repo": "zmk-dongle-display",
-                    "stars": 263
+                    "stars": 265
                   }
                 },
                 {
@@ -1983,7 +1983,7 @@
                     "last_commit": "2026-03-19T13:37:31Z",
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
-                    "stars": 256
+                    "stars": 257
                   }
                 },
                 {
@@ -1998,7 +1998,7 @@
                     "last_commit": "2026-02-17T04:07:43Z",
                     "owner": "carrefinho",
                     "repo": "prospector-zmk-module",
-                    "stars": 165
+                    "stars": 166
                   }
                 },
                 {
@@ -2137,7 +2137,7 @@
                         "last_commit": "2025-11-22T00:05:38Z",
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 787
+                        "stars": 788
                       }
                     },
                     {
@@ -2182,7 +2182,7 @@
                         "last_commit": "2026-02-21T17:19:44Z",
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 263
+                        "stars": 265
                       }
                     },
                     {
@@ -2197,7 +2197,7 @@
                         "last_commit": "2026-02-21T17:19:44Z",
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 263
+                        "stars": 265
                       }
                     },
                     {
@@ -2406,7 +2406,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2061
+                    "stars": 2062
                   }
                 },
                 {
@@ -2421,7 +2421,7 @@
                     "last_commit": "2025-10-10T01:34:27Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2061
+                    "stars": 2062
                   }
                 }
               ]
@@ -2962,7 +2962,7 @@
                 "last_commit": "2024-07-06T10:55:25Z",
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5860
+                "stars": 5861
               }
             },
             {
@@ -3020,7 +3020,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-25T14:37:02Z",
+                "last_commit": "2026-08-26T14:13:59Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -3031,7 +3031,7 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-25T14:37:02Z",
+            "last_commit": "2026-08-26T14:13:59Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1414
@@ -3106,7 +3106,7 @@
                 "last_commit": "2026-06-14T17:55:56Z",
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
-                "stars": 601
+                "stars": 602
               }
             }
           ]
@@ -3166,7 +3166,7 @@
             "last_commit": "2026-01-25T05:29:54Z",
             "owner": "whoop-t",
             "repo": "nice-shield-collection",
-            "stars": 76
+            "stars": 75
           }
         },
         {
@@ -3204,7 +3204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:01:47.877Z",
+    "last_updated": "2026-08-26T19:26:55.400Z",
     "original_repository": "mctechnology17/awesome-zmk",
     "original_repository_id": 1079813254,
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
