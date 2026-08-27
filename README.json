@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-26T19:16:43Z",
+                "last_commit": "2026-08-27T11:16:04Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16315
+                "stars": 16322
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-26T14:13:59Z",
+                "last_commit": "2026-08-27T12:04:17Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -139,7 +139,7 @@
             "last_commit": "2026-08-24T05:32:44Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1369
+            "stars": 1370
           }
         },
         {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72949
+                "stars": 72960
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-19T15:33:40Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36720
+                "stars": 36723
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28161
+                "stars": 28163
               }
             },
             {
@@ -559,7 +559,7 @@
                 "last_commit": "2026-07-07T07:00:27Z",
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2934
+                "stars": 2935
               }
             },
             {
@@ -1194,7 +1194,7 @@
                         "last_commit": "2026-06-18T15:03:30Z",
                         "owner": "badjeff",
                         "repo": "paw3395-pcb",
-                        "stars": 33
+                        "stars": 34
                       }
                     }
                   ],
@@ -1594,7 +1594,7 @@
                     "last_commit": "2026-08-20T12:29:58Z",
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-non-lipo-battery-management",
-                    "stars": 5
+                    "stars": 6
                   }
                 },
                 {
@@ -1998,7 +1998,7 @@
                     "last_commit": "2026-02-17T04:07:43Z",
                     "owner": "carrefinho",
                     "repo": "prospector-zmk-module",
-                    "stars": 166
+                    "stars": 167
                   }
                 },
                 {
@@ -2079,7 +2079,7 @@
                         "last_commit": "2026-08-01T16:45:44Z",
                         "owner": "t-ogura",
                         "repo": "zmk-config-prospector",
-                        "stars": 64
+                        "stars": 65
                       }
                     }
                   ],
@@ -2137,7 +2137,7 @@
                         "last_commit": "2025-11-22T00:05:38Z",
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 788
+                        "stars": 789
                       }
                     },
                     {
@@ -2341,7 +2341,7 @@
                 "last_commit": "2026-07-02T20:50:41Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
-                "stars": 313
+                "stars": 314
               }
             },
             {
@@ -2403,7 +2403,7 @@
                     "archived": false,
                     "id": 363959496,
                     "language": "JavaScript",
-                    "last_commit": "2025-10-10T01:34:27Z",
+                    "last_commit": "2026-08-27T01:14:51Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2062
@@ -2418,7 +2418,7 @@
                     "archived": false,
                     "id": 363959496,
                     "language": "JavaScript",
-                    "last_commit": "2025-10-10T01:34:27Z",
+                    "last_commit": "2026-08-27T01:14:51Z",
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2062
@@ -3020,7 +3020,7 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-26T14:13:59Z",
+                "last_commit": "2026-08-27T12:04:17Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1414
@@ -3031,7 +3031,7 @@
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-26T14:13:59Z",
+            "last_commit": "2026-08-27T12:04:17Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1414
@@ -3204,9 +3204,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:26:55.400Z",
-    "original_repository": "mctechnology17/awesome-zmk",
-    "original_repository_id": 1079813254,
+    "last_updated": "2026-08-27T12:12:00.634Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1079813254,
+      "language": null,
+      "last_commit": "2026-01-06T06:33:52Z",
+      "owner": "mctechnology17",
+      "repo": "awesome-zmk",
+      "stars": 193
+    },
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
     "enhanced_repository_description": null,
