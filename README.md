@@ -104,7 +104,7 @@ ZMK makes use of Zephyr modules to include additional source code or configurati
 
 Zephyr Project:
 
-* [Zephyr Project Code Repository on GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,337 | 🐛 3,856 | 🌐 C | 📅 2026-08-28 - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+* [Zephyr Project Code Repository on GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,338 | 🐛 3,858 | 🌐 C | 📅 2026-08-28 - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 * [Zephyr Project Documentation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - The underlying RTOS for ZMK. Useful for deep-dives and driver development.
 
 Nordic Semiconductor:
@@ -164,8 +164,8 @@ ZSWatch - Zephyr Smartwatch:
 
 ### Useful Awesome List
 
-* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,981 | 🐛 312 | 📅 2026-08-22 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
-* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,736 | 🐛 26 | 📅 2026-08-27 - A curated list of Docker resources and related projects about the Docker ecosystem.
+* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,983 | 🐛 312 | 📅 2026-08-22 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,736 | 🐛 25 | 📅 2026-08-27 - A curated list of Docker resources and related projects about the Docker ecosystem.
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,169 | 🐛 278 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git) ⭐ 2,936 | 🐛 70 | 📅 2026-07-07 - A curated list of amazingly awesome Git tools, resources and shiny things.
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh) ⭐ 2,835 | 🐛 46 | 📅 2023-08-10 - A curated list of SSH apps, libraries and resources.
@@ -592,7 +592,7 @@ This list is licensed under the [Creative Commons Zero v1.0 Universal](https://c
 
 [^3]: Zephyr Project official website: <https://www.zephyrproject.org>
 
-[^4]: Zephyr Project Code Repository: <https://github.com/zephyrproject-rtos/zephyr> ⭐ 16,337 | 🐛 3,856 | 🌐 C | 📅 2026-08-28
+[^4]: Zephyr Project Code Repository: <https://github.com/zephyrproject-rtos/zephyr> ⭐ 16,338 | 🐛 3,858 | 🌐 C | 📅 2026-08-28
 
 [^5]: Online Power Profiler for Bluetooth LE: <https://devzone.nordicsemi.com/power/w/opp>
 

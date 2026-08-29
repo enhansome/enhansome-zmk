@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK Firmware Repository",
+            "homepage": "https://zmk.dev/",
             "id": 270692521,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:03:35Z",
+            "open_issues": 419,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4243
+            "stars": 4243,
+            "topics": [
+              "bluetooth",
+              "hacktoberfest",
+              "keyboard",
+              "keyboard-firmware",
+              "mechanical-keyboard",
+              "wireless",
+              "zephyr",
+              "zmk"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -28,12 +42,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+                "homepage": "https://docs.zephyrproject.org",
                 "id": 59771425,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:34:31Z",
+                "open_issues": 3858,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16337
+                "stars": 16338,
+                "topics": [
+                  "bluetooth",
+                  "bluetooth-le",
+                  "embedded",
+                  "embedded-c",
+                  "iot",
+                  "mcu",
+                  "microcontroller",
+                  "real-time",
+                  "rtos",
+                  "zephyr",
+                  "zephyr-rtos",
+                  "zephyros"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -44,12 +76,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nRF Connect SDK main repository",
+                "homepage": "https://nrfconnectdocs.nordicsemi.com/ncs/latest/nrf/",
                 "id": 121516035,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:02:20Z",
+                "open_issues": 257,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1416
+                "stars": 1416,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -60,12 +97,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 561235539,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-30T14:03:05Z",
+                "open_issues": 2,
                 "owner": "NordicDeveloperAcademy",
                 "repo": "ncs-fund",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -76,12 +118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",
+                "homepage": "https://zswatch.dev",
                 "id": 1048367968,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-22T10:19:36Z",
+                "open_issues": 0,
                 "owner": "jakkra",
                 "repo": "ZSWatch",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -103,12 +150,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified config repo template. Add `build.yml` to create an automated ZMK build.",
+            "homepage": "https://zmk.dev/",
             "id": 416571790,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-13T17:31:09Z",
+            "open_issues": 2,
             "owner": "zmkfirmware",
             "repo": "unified-zmk-config-template",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "zephyr",
+              "zmk"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -119,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a generalised template for a ZMK module. Please see the documentation for usage instructions.",
+            "homepage": null,
             "id": 932992347,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-15T00:32:00Z",
+            "open_issues": 0,
             "owner": "zmkfirmware",
             "repo": "zmk-module-template",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         }
@@ -141,12 +201,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)",
+            "homepage": null,
             "id": 501412238,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-29T00:10:45Z",
+            "open_issues": 3,
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1371
+            "stars": 1371,
+            "topics": [
+              "corneish-zen",
+              "keyboard-layout",
+              "nix",
+              "zmk",
+              "zmk-config"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -157,12 +228,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glorious Engrammer keymap for Glove80 keyboard",
+            "homepage": "https://sunaku.github.io/moergo-glove80-keyboard.html#layers",
             "id": 693406138,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-12T16:03:42Z",
+            "open_issues": 21,
             "owner": "sunaku",
             "repo": "glove80-keymaps",
-            "stars": 759
+            "stars": 759,
+            "topics": [
+              "engram",
+              "glove80",
+              "home-row-mods",
+              "keyboard-layout",
+              "miryoku",
+              "zmk-config"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -173,12 +256,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.",
+            "homepage": null,
             "id": 481505285,
             "language": "C",
+            "license": null,
             "last_commit": "2025-06-27T07:10:12Z",
+            "open_issues": 14,
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "miryoku",
+              "zmk",
+              "zmk-config"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -189,12 +281,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly and easily configure your Wireless corne - sofle - lily58 keyboard with ZMK",
+            "homepage": "https://www.youtube.com/c/mctechnology17",
             "id": 530660152,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-01-11T12:24:13Z",
+            "open_issues": 3,
             "owner": "mctechnology17",
             "repo": "zmk-config",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "corne",
+              "corne-keyboard",
+              "crkbd",
+              "dongle",
+              "keymap-drawer",
+              "lily58",
+              "nicenano",
+              "niceview",
+              "nrf52840",
+              "puchi-ble",
+              "sofle",
+              "soflergb",
+              "super-mini",
+              "wireless",
+              "xiao-ble",
+              "zmk-config",
+              "zmk-module",
+              "zmk-shield",
+              "zmk-studio"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -205,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 577809324,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-02T07:43:46Z",
+            "open_issues": 1,
             "owner": "eigatech",
             "repo": "zmk-config",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -221,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK config for corne-like keyboard with dongle",
+            "homepage": null,
             "id": 554266725,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T14:21:00Z",
+            "open_issues": 0,
             "owner": "aroum",
             "repo": "zmk-enki42-dongle",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -237,12 +364,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK user config containing keymap for 26-36 key keyboards",
+            "homepage": null,
             "id": 340512296,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-17T18:46:59Z",
+            "open_issues": 0,
             "owner": "caksoylar",
             "repo": "zmk-config",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "corneish-zen",
+              "keyboard",
+              "keyboard-layout",
+              "keymap-drawer",
+              "zmk",
+              "zmk-config"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -253,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 844213385,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-01T12:31:35Z",
+            "open_issues": 2,
             "owner": "a741725193",
             "repo": "zmk-new_corne",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -269,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 843241308,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-07T16:56:42Z",
+            "open_issues": 3,
             "owner": "kumamuk-git",
             "repo": "zmk-config-roBa",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -285,12 +434,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK Firmware Configuration",
+            "homepage": "https://araxia.net/keyboards",
             "id": 547094710,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T00:22:05Z",
+            "open_issues": 0,
             "owner": "SethMilliken",
             "repo": "zmk-config",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "keymap-drawer",
+              "zmk-config"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -301,12 +458,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal zmk-config for my ergo keyboards",
+            "homepage": null,
             "id": 559244622,
             "language": "C",
+            "license": null,
             "last_commit": "2026-05-11T18:32:29Z",
+            "open_issues": 0,
             "owner": "englmaxi",
             "repo": "zmk-config",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "keyboard",
+              "keyboard-layout",
+              "keymap",
+              "keymap-drawer",
+              "split-keyboard",
+              "zmk",
+              "zmk-config",
+              "zmk-dongle",
+              "zmk-shield"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -317,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 738857747,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-25T15:06:00Z",
+            "open_issues": 0,
             "owner": "badjeff",
             "repo": "zmk-config",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -333,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 831594438,
             "language": "CMake",
+            "license": null,
             "last_commit": "2025-12-16T05:59:06Z",
+            "open_issues": 0,
             "owner": "tokyo2006",
             "repo": "zmk-config-corne",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -349,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware for the Rolio split wireless keyboard",
+            "homepage": "https://keydio.io",
             "id": 683279328,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-08T03:29:19Z",
+            "open_issues": 1,
             "owner": "MickiusMousius",
             "repo": "RolioFirmware",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -365,12 +552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 777020140,
             "language": "CMake",
+            "license": null,
             "last_commit": "2026-07-05T20:26:11Z",
+            "open_issues": 2,
             "owner": "sadekbaroudi",
             "repo": "zmk-fingerpunch-keyboards",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -381,12 +573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1047316047,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-26T01:45:25Z",
+            "open_issues": 1,
             "owner": "a741725193",
             "repo": "zmk-corne-oled",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -399,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK board definition for Iris CE by Keebio",
+                "homepage": null,
                 "id": 813855073,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2026-01-04T20:38:49Z",
+                "open_issues": 0,
                 "owner": "paulshir",
                 "repo": "zmk-keyboard-iris-ce",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -415,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Config for the SplitKB Halcyon keyboards",
+                "homepage": null,
                 "id": 925390985,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-24T23:08:55Z",
+                "open_issues": 0,
                 "owner": "petejohanson",
                 "repo": "splitkb-halcyon-zmk-config",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -431,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 925386407,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2025-12-14T22:03:09Z",
+                "open_issues": 1,
                 "owner": "petejohanson",
                 "repo": "splitkb-halcyon-zmk-module",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -447,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 977267926,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-19T01:14:18Z",
+                "open_issues": 0,
                 "owner": "SSheldon",
                 "repo": "zmk-keyboard-chiri-ce",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -474,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pro Micro alternative for wireless keyboards",
+            "homepage": "https://github.com/joric/nrfmicro/wiki",
             "id": 172212364,
             "language": "HTML",
+            "license": "Unlicense",
             "last_commit": "2025-08-04T01:46:45Z",
+            "open_issues": 0,
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1856
+            "stars": 1856,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -490,12 +712,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zephyr: Tutorial for beginners",
+            "homepage": null,
             "id": 383702350,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-07T12:35:19Z",
+            "open_issues": 10,
             "owner": "maksimdrachov",
             "repo": "zephyr-rtos-tutorial",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "embedded",
+              "tutorial",
+              "zephyr",
+              "zephyr-rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -506,12 +738,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
+            "homepage": null,
             "id": 463883920,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-12-11T22:51:16Z",
+            "open_issues": 2,
             "owner": "golioth",
             "repo": "awesome-zephyr-rtos",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "embedded",
+              "iot",
+              "lists",
+              "mcu",
+              "microcontroller",
+              "real-time",
+              "rtos",
+              "zephyr",
+              "zephyr-rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -522,12 +771,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A base repo to use for your ZMK nice!view shield customization",
+            "homepage": null,
             "id": 944758699,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-14T18:43:49Z",
+            "open_issues": 0,
             "owner": "whoop-t",
             "repo": "nice-shield-base",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "zmk",
+              "zmk-module",
+              "zmk-shield"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -540,12 +798,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+                "homepage": "http://fffaraz.github.io/awesome-cpp/",
                 "id": 21935031,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T08:36:07Z",
+                "open_issues": 312,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72981
+                "stars": 72983,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp-library",
+                  "cppcon",
+                  "libraries",
+                  "list",
+                  "lists",
+                  "programming-tutorial",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -556,12 +832,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":whale: A curated list of Docker resources and projects",
+                "homepage": "https://average.joe.dev/awesome-docker/",
                 "id": 24297122,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:04:16Z",
+                "open_issues": 25,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36736
+                "stars": 36736,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "container",
+                  "docker",
+                  "docker-api",
+                  "docker-container",
+                  "docker-deployment",
+                  "docker-environment",
+                  "docker-image",
+                  "docker-machine",
+                  "docker-monitoring",
+                  "docker-registry",
+                  "docker-security",
+                  "docker-swarm",
+                  "dockerfile",
+                  "list",
+                  "moby",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -572,12 +872,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome actions to use on GitHub",
+                "homepage": null,
                 "id": 153500249,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
+                "open_issues": 278,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28169
+                "stars": 28169,
+                "topics": [
+                  "actions",
+                  "actions-list",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "curated-list",
+                  "github",
+                  "github-actions"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -588,12 +902,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+                "homepage": null,
                 "id": 41074904,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
+                "open_issues": 70,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2936
+                "stars": 2936,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "git"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -604,12 +928,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":computer: A curated list of SSH resources.",
+                "homepage": "https://manfred.life/awesome-ssh",
                 "id": 49391609,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-08-10T10:15:24Z",
+                "open_issues": 46,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2835
+                "stars": 2835,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "devops",
+                  "list",
+                  "mosh",
+                  "openssh",
+                  "ssh",
+                  "ssh-agent",
+                  "ssh-key",
+                  "ssh-keys",
+                  "ssh-keyscan"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -620,12 +961,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YAML awesomeness",
+                "homepage": null,
                 "id": 30675670,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2022-11-14T14:39:35Z",
+                "open_issues": 3,
                 "owner": "dreftymac",
                 "repo": "awesome-yaml",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "data",
+                  "json",
+                  "opendata",
+                  "stackoverflow",
+                  "txt",
+                  "xml",
+                  "yaml",
+                  "yaml-awesomeness"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -649,12 +1004,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convenience macros for ZMK configs",
+                "homepage": null,
                 "id": 513259787,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T03:32:16Z",
+                "open_issues": 4,
                 "owner": "urob",
                 "repo": "zmk-helpers",
-                "stars": 415
+                "stars": 415,
+                "topics": [
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -665,12 +1029,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module adding auto-layer behavior",
+                "homepage": null,
                 "id": 836525756,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-21T03:05:02Z",
+                "open_issues": 3,
                 "owner": "urob",
                 "repo": "zmk-auto-layer",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -681,12 +1053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 994020368,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-11T19:42:49Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-feature-split-esb",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -697,12 +1074,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module adding leader key behavior",
+                "homepage": null,
                 "id": 893717246,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-21T23:11:52Z",
+                "open_issues": 5,
                 "owner": "urob",
                 "repo": "zmk-leader-key",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -713,12 +1098,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module for Raw HID communication",
+                "homepage": null,
                 "id": 907424433,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T20:05:05Z",
+                "open_issues": 2,
                 "owner": "zzeneg",
                 "repo": "zmk-raw-hid",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -729,12 +1121,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module for Unicode input",
+                "homepage": null,
                 "id": 1033443392,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:40:05Z",
+                "open_issues": 5,
                 "owner": "urob",
                 "repo": "zmk-unicode",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -745,12 +1145,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 779730341,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-07T10:13:18Z",
+                "open_issues": 1,
                 "owner": "englmaxi",
                 "repo": "zmk-hid-trackball-interface",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -761,12 +1168,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module adding adaptive-key behavior ",
+                "homepage": null,
                 "id": 903510384,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-21T03:05:53Z",
+                "open_issues": 8,
                 "owner": "urob",
                 "repo": "zmk-adaptive-key",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -777,12 +1192,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module to invoke behaviors on certain events.",
+                "homepage": null,
                 "id": 911760257,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-12-20T10:23:13Z",
+                "open_issues": 0,
                 "owner": "ssbb",
                 "repo": "zmk-listeners",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -793,12 +1216,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept where swapper implemented as external module",
+                "homepage": null,
                 "id": 752456144,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-03-16T19:01:18Z",
+                "open_issues": 4,
                 "owner": "dhruvinsh",
                 "repo": "zmk-tri-state",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "zephyr",
+                  "zmk",
+                  "zmk-config",
+                  "zmk-firmware"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -809,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Antecedent Morph Behavior aka Adaptive Keys",
+                "homepage": null,
                 "id": 844745267,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-12-11T02:32:43Z",
+                "open_issues": 0,
                 "owner": "ssbb",
                 "repo": "zmk-antecedent-morph",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -825,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 776470445,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-12-12T04:23:15Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-input-relay",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -841,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766535534,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-25T15:05:12Z",
+                "open_issues": 2,
                 "owner": "badjeff",
                 "repo": "zmk-hid-io",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -857,12 +1305,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"tiny\" and \"useful\" bits to reuse across ZMK boards",
+                "homepage": null,
                 "id": 772999408,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-07T10:28:26Z",
+                "open_issues": 0,
                 "owner": "elpekenin",
                 "repo": "zmk-userspace",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -873,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766516612,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-09-02T21:58:03Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-output-behavior-listener",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -889,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ZMK behaviour for cycling sensor attributes",
+                "homepage": null,
                 "id": 989157472,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-04-05T11:59:12Z",
+                "open_issues": 0,
                 "owner": "george-norton",
                 "repo": "zmk-behavior-sensor-attr-cycle",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -905,12 +1371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782985087,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-03-08T05:39:19Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-behavior-insomnia",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -921,12 +1392,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept where num-word behavior implemented as external module for zmk",
+                "homepage": null,
                 "id": 752891442,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-06T15:13:48Z",
+                "open_issues": 0,
                 "owner": "dhruvinsh",
                 "repo": "zmk-num-word",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "zephyr",
+                  "zmk",
+                  "zmk-config",
+                  "zmk-firmware"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -937,12 +1418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 801548130,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-14T13:31:38Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-output-relay",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -953,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 931195170,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-14T14:10:12Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-input-processor-xyz",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -969,12 +1460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 783718785,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-11-22T04:44:33Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-bonding-tweak",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -985,12 +1481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 783718785,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-11-22T04:44:33Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-bonding-tweak",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1001,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1090872781,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-11-17T09:22:40Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-behavior-battery-percentage-printer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1017,12 +1523,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module is used to drop illegal keycodes.",
+                "homepage": null,
                 "id": 908370531,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-01-11T04:15:42Z",
+                "open_issues": 0,
                 "owner": "ssbb",
                 "repo": "zmk-deadkey-slayer",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1033,12 +1547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 893834313,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-09-06T12:27:09Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-input-processor-mixer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1049,12 +1568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 836801463,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-05-28T20:38:19Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-behavior-key-press-lip",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1065,12 +1589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1025071745,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-07-23T17:15:40Z",
+                "open_issues": 0,
                 "owner": "a741725193",
                 "repo": "zmk-tog-io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -1090,12 +1619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A zmk driver for azoteq trackpads with the iqs5xx chipset.",
+                    "homepage": null,
                     "id": 1035242919,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-31T02:21:35Z",
+                    "open_issues": 1,
                     "owner": "AYM1607",
                     "repo": "zmk-driver-azoteq-iqs5xx",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1106,12 +1640,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zephyr module for the Cirque Pinnacle input driver.",
+                    "homepage": null,
                     "id": 755845308,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-02-18T18:28:36Z",
+                    "open_issues": 7,
                     "owner": "petejohanson",
                     "repo": "cirque-input-module",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1122,12 +1661,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1030642673,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-12-02T13:25:32Z",
+                    "open_issues": 0,
                     "owner": "sekigon-gonnoc",
                     "repo": "iqs7211e-trackpad-module",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1138,12 +1682,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 995300943,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-08T14:55:50Z",
+                    "open_issues": 0,
                     "owner": "Ahmed-M-Osman1",
                     "repo": "zmk-driver-azoteq",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1159,12 +1708,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A handheld Linux device using Raspberry Pi4B as Core with 4\" 720X720 TFT Touch display",
+                        "homepage": null,
                         "id": 907527443,
                         "language": "DataWeave",
+                        "license": "MIT",
                         "last_commit": "2025-02-12T05:28:43Z",
+                        "open_issues": 0,
                         "owner": "ZitaoTech",
                         "repo": "HackberryPi-4B",
-                        "stars": 69
+                        "stars": 69,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -1175,12 +1729,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Description about the 9981 BLE&USB Keyboard Pro with trackpad",
+                        "homepage": null,
                         "id": 1074934030,
                         "language": "C",
+                        "license": "MIT",
                         "last_commit": "2026-05-03T10:08:24Z",
+                        "open_issues": 1,
                         "owner": "ZitaoTech",
                         "repo": "9981_BLE_USB_Keyboard_Pro",
-                        "stars": 27
+                        "stars": 27,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -1191,24 +1750,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ZMK Firmware Repository",
+                        "homepage": "https://zmkfirmware.dev/",
                         "id": 771765586,
                         "language": "C",
+                        "license": "MIT",
                         "last_commit": "2025-07-02T09:37:12Z",
+                        "open_issues": 0,
                         "owner": "ZitaoTech",
                         "repo": "zmk",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "zmk firmware config for 9981 keyboard with trackpad(pro version)",
+                    "homepage": null,
                     "id": 1075028968,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-12T07:40:27Z",
+                    "open_issues": 2,
                     "owner": "ZitaoTech",
                     "repo": "zmk-config-9981-pro",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1226,12 +1795,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 789770394,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-16T10:52:30Z",
+                    "open_issues": 5,
                     "owner": "badjeff",
                     "repo": "zmk-pmw3610-driver",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1242,12 +1816,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 735712331,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-05-02T01:17:32Z",
+                    "open_issues": 3,
                     "owner": "inorichi",
                     "repo": "zmk-pmw3610-driver",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1263,24 +1842,42 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An open source  breakout board for PixArt PAW3395DM-T6QU / PAW3950DM-T5QU low power optical mouse sensor.",
+                        "homepage": null,
                         "id": 980890278,
                         "language": null,
+                        "license": "CERN-OHL-P-2.0",
                         "last_commit": "2026-06-18T15:03:30Z",
+                        "open_issues": 0,
                         "owner": "badjeff",
                         "repo": "paw3395-pcb",
-                        "stars": 34
+                        "stars": 34,
+                        "topics": [
+                          "kicad",
+                          "mouse",
+                          "optical-sensor",
+                          "paw3395",
+                          "paw3950",
+                          "pcb",
+                          "pixart"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 985211074,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-18T13:48:01Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-paw3395-driver",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1291,12 +1888,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 957106754,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-23T13:29:25Z",
+                    "open_issues": 0,
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-driver-paw3222",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1307,12 +1909,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A ZMK driver for the Pixart PMW3360 optical mouse sensor.",
+                    "homepage": null,
                     "id": 986219974,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-10-14T10:43:27Z",
+                    "open_issues": 0,
                     "owner": "george-norton",
                     "repo": "zmk-driver-pmw3360",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1328,24 +1935,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ZMK Firmware Repository",
+                        "homepage": "https://zmk.dev/",
                         "id": 405651090,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2021-11-29T21:37:29Z",
+                        "open_issues": 0,
                         "owner": "cdc-mkb",
                         "repo": "zmk",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 858256625,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-17T21:04:57Z",
+                    "open_issues": 0,
                     "owner": "t0bybr",
                     "repo": "pim447",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1361,24 +1978,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1078861891,
                         "language": null,
+                        "license": null,
                         "last_commit": "2026-05-08T08:52:36Z",
+                        "open_issues": 0,
                         "owner": "kzyz",
                         "repo": "corne-ulp-ball",
-                        "stars": 0
+                        "stars": 0,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 930728940,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-16T02:28:01Z",
+                    "open_issues": 0,
                     "owner": "kzyz",
                     "repo": "zmk-az1uball-driver",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1396,12 +2023,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PS/2 mouse & trackpoint driver module for keyboards running the zmk firmware",
+                    "homepage": null,
                     "id": 786580350,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-08-18T14:08:59Z",
+                    "open_issues": 11,
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": [
+                      "zmk",
+                      "zmk-module"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1412,12 +2047,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PS/2 mouse & trackpoint driver module for keyboards running the zmk firmware",
+                    "homepage": null,
                     "id": 789862321,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-05T07:47:10Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1435,12 +2075,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 762724764,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-06T20:53:10Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-analog-input-driver",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1451,12 +2096,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An attempt at making a joystick act as a four-directional switch, in a keyboard.",
+                    "homepage": null,
                     "id": 1059975263,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-14T08:28:21Z",
+                    "open_issues": 1,
                     "owner": "letmegobacktosleep",
                     "repo": "zmk-keyboard-joystick-wasd",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1474,12 +2124,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 798924864,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-09-21T22:06:45Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-drv2605-driver",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1497,12 +2152,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "use different OLED screen sizes without modifying code (for 128x32, 128x64 and 128x128 OLED screens)",
+                    "homepage": "https://github.com/mctechnology17/zmk-config",
                     "id": 847101756,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-11-09T20:36:26Z",
+                    "open_issues": 0,
                     "owner": "mctechnology17",
                     "repo": "zmk-oled-adapter",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "zmk-config",
+                      "zmk-dongle",
+                      "zmk-module",
+                      "zmk-shield"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1513,12 +2178,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zephyr driver for LS0XX displays with the VCOM fix applied",
+                    "homepage": "https://keydio.io",
                     "id": 1061583165,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T12:29:34Z",
+                    "open_issues": 0,
                     "owner": "MickiusMousius",
                     "repo": "zmk-ls0xxvcom-driver",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "zmk",
+                      "zmk-firmware",
+                      "zmk-module",
+                      "zmk-modules"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1536,12 +2211,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"tiny\" and \"useful\" bits to reuse across ZMK boards",
+                    "homepage": null,
                     "id": 772999408,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-07-07T10:28:26Z",
+                    "open_issues": 0,
                     "owner": "elpekenin",
                     "repo": "zmk-userspace",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "zmk",
+                      "zmk-module"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1552,12 +2235,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A ZMK module to add battery/BT/layer indicators using an RGB LED (like in Xiao BLEs)",
+                    "homepage": null,
                     "id": 733619413,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T21:45:45Z",
+                    "open_issues": 0,
                     "owner": "caksoylar",
                     "repo": "zmk-rgbled-widget",
-                    "stars": 232
+                    "stars": 232,
+                    "topics": [
+                      "zmk-config",
+                      "zmk-module"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1568,12 +2259,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Personal zmk-config for my ergo keyboards",
+                    "homepage": null,
                     "id": 559244622,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-11T18:32:29Z",
+                    "open_issues": 0,
                     "owner": "englmaxi",
                     "repo": "zmk-config",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": [
+                      "keyboard",
+                      "keyboard-layout",
+                      "keymap",
+                      "keymap-drawer",
+                      "split-keyboard",
+                      "zmk",
+                      "zmk-config",
+                      "zmk-dongle",
+                      "zmk-shield"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1584,12 +2290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 951738799,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T06:40:10Z",
+                    "open_issues": 0,
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-status-led",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1600,12 +2311,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 718699262,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-03-31T06:02:47Z",
+                    "open_issues": 0,
                     "owner": "aroum",
                     "repo": "zmk-kabarga",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1616,12 +2332,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Selene (Totem) and Themis (Totem) config",
+                    "homepage": null,
                     "id": 730963022,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2026-07-23T17:21:52Z",
+                    "open_issues": 0,
                     "owner": "dhruvinsh",
                     "repo": "zmk-config",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "corne",
+                      "keyboard",
+                      "keymap-drawer",
+                      "kinesis",
+                      "mechanical-keyboard",
+                      "sweep",
+                      "totem",
+                      "urchin",
+                      "zmk",
+                      "zmk-config",
+                      "zmk-firmware",
+                      "zmk-shield"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1632,12 +2366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1093108477,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-01-24T15:14:25Z",
+                    "open_issues": 0,
                     "owner": "4mplelab",
                     "repo": "zmk-feature-charge-indicator",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1648,12 +2387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZMK module for custom keyboards",
+                    "homepage": null,
                     "id": 874546659,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-11-28T04:42:16Z",
+                    "open_issues": 0,
                     "owner": "joelspadin",
                     "repo": "zmk-keyboards",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1671,12 +2415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EC/Topre Drivers/Support Module",
+                    "homepage": null,
                     "id": 847558572,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-06-16T09:24:25Z",
+                    "open_issues": 0,
                     "owner": "petejohanson",
                     "repo": "ec-support-zmk-module",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1687,12 +2436,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 955923020,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T12:29:58Z",
+                    "open_issues": 0,
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-non-lipo-battery-management",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1703,12 +2457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 743151683,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-16T10:53:16Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-adns9800-driver",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1719,12 +2478,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZMK driver to setup the RP2040 sleep mode.",
+                    "homepage": null,
                     "id": 996196217,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-10-14T10:41:36Z",
+                    "open_issues": 0,
                     "owner": "george-norton",
                     "repo": "zmk-driver-rp2040-sleep",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1735,12 +2499,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 848457806,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-09-15T08:57:13Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-tb6612fng-driver",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -1751,12 +2520,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 847367719,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-08-27T19:41:20Z",
+                    "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-drv883x-driver",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -1779,12 +2553,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vertical widgets for oled and niceview screens using zmk (for split and non-split keyboards)",
+                "homepage": null,
                 "id": 895267932,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-01-26T15:54:26Z",
+                "open_issues": 11,
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1795,12 +2578,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sleek customization for the nice!view shield",
+                "homepage": null,
                 "id": 875544803,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-27T16:57:28Z",
+                "open_issues": 3,
                 "owner": "M165437",
                 "repo": "nice-view-gem",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1811,12 +2602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 850046984,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-13T19:32:34Z",
+                "open_issues": 1,
                 "owner": "GPeye",
                 "repo": "urchin-peripheral-animation",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1827,12 +2623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 857056123,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-14T00:55:31Z",
+                "open_issues": 3,
                 "owner": "GPeye",
                 "repo": "hammerbeam-slideshow",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1843,12 +2644,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clean customization for the nice!view displays",
+                "homepage": null,
                 "id": 878095261,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-10-27T22:14:32Z",
+                "open_issues": 2,
                 "owner": "infely",
                 "repo": "nice-view-battery",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1859,12 +2668,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bold while minimalistic interface for your keyboard's display",
+                "homepage": null,
                 "id": 880624331,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-05T04:32:54Z",
+                "open_issues": 2,
                 "owner": "kevinpastor",
                 "repo": "nice-view-elemental",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "nicenano",
+                  "niceview",
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1875,12 +2695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
+                "homepage": null,
                 "id": 941406752,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-31T16:03:22Z",
+                "open_issues": 0,
                 "owner": "dsifry",
                 "repo": "nice-view-mod",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1891,12 +2716,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "horizontal widgets for keyboards with dongles, splits and non-splits  using the nice!view (bongocat, wpm, caps, batt, etc.)",
+                "homepage": "https://github.com/mctechnology17/zmk-config",
                 "id": 847299809,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-08-25T12:38:14Z",
+                "open_issues": 0,
                 "owner": "mctechnology17",
                 "repo": "zmk-dongle-display-view",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "zmk-config",
+                  "zmk-dongle",
+                  "zmk-firmware",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1907,12 +2743,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK module for nice!view widget with Raw HID functionality",
+                "homepage": null,
                 "id": 907545222,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-29T23:04:02Z",
+                "open_issues": 0,
                 "owner": "zzeneg",
                 "repo": "zmk-nice-view-hid",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1923,12 +2766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 850930353,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-02T06:05:24Z",
+                "open_issues": 0,
                 "owner": "GPeye",
                 "repo": "mario-peripheral-animation",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1939,12 +2787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware for the Rolio split wireless keyboard",
+                "homepage": "https://keydio.io",
                 "id": 683279328,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-08T03:29:19Z",
+                "open_issues": 1,
                 "owner": "MickiusMousius",
                 "repo": "RolioFirmware",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1955,12 +2808,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An \"adventurous\" customization for the nice!view shield",
+                "homepage": null,
                 "id": 943050832,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-07T07:02:11Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-adventure-time",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "zmk",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1971,12 +2833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom shield for nice!view with retro feeling",
+                "homepage": null,
                 "id": 1042626761,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-08-22T13:14:02Z",
+                "open_issues": 1,
                 "owner": "Ziembski",
                 "repo": "nice-view-press-start",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -1987,12 +2854,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ok",
+                "homepage": null,
                 "id": 945119442,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-01-25T05:07:06Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-one-punch-ok",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2003,12 +2880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Oops\" view for you nice!view",
+                "homepage": null,
                 "id": 944774561,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-08T21:23:57Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-fry-button-miss",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2019,12 +2901,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead or alive",
+                "homepage": null,
                 "id": 945744274,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-10T05:52:16Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-luffy-wanted",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2035,12 +2927,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nice shield for the lesser of 2 evils",
+                "homepage": null,
                 "id": 944206967,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-08T07:23:29Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-futurama-sus",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "zmk",
+                  "zmk-firmware",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2051,12 +2953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 966256429,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-04-21T20:50:17Z",
+                "open_issues": 0,
                 "owner": "Jestar342",
                 "repo": "nice-shield-spacemarine",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2067,12 +2974,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nice!view gear 5 luffy",
+                "homepage": null,
                 "id": 947021358,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-12T04:18:41Z",
+                "open_issues": 0,
                 "owner": "whoop-t",
                 "repo": "nice-luffy-gear-five",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "zmk",
+                  "zmk-config",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2085,12 +3002,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Custom status screen for zmk dongles",
+                    "homepage": null,
                     "id": 797803307,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-21T17:19:44Z",
+                    "open_issues": 5,
                     "owner": "englmaxi",
                     "repo": "zmk-dongle-display",
-                    "stars": 265
+                    "stars": 265,
+                    "topics": [
+                      "zmk",
+                      "zmk-config",
+                      "zmk-dongle",
+                      "zmk-module"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2101,12 +3028,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "YADS  - Yet another Dongle Screen for ZMK",
+                    "homepage": null,
                     "id": 985892437,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-03-19T13:37:31Z",
+                    "open_issues": 7,
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
-                    "stars": 257
+                    "stars": 257,
+                    "topics": [
+                      "zmk",
+                      "zmk-module"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2117,12 +3052,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZMK module for the Prospector dongle",
+                    "homepage": null,
                     "id": 889491162,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-17T04:07:43Z",
+                    "open_issues": 11,
                     "owner": "carrefinho",
                     "repo": "prospector-zmk-module",
-                    "stars": 167
+                    "stars": 167,
+                    "topics": [
+                      "zmk"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2133,12 +3075,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "horizontal widgets for keyboards with dongles, splits and non-splits  using the nice!view (bongocat, wpm, caps, batt, etc.)",
+                    "homepage": "https://github.com/mctechnology17/zmk-config",
                     "id": 847299809,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-08-25T12:38:14Z",
+                    "open_issues": 0,
                     "owner": "mctechnology17",
                     "repo": "zmk-dongle-display-view",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "zmk-config",
+                      "zmk-dongle",
+                      "zmk-firmware",
+                      "zmk-module",
+                      "zmk-shield"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2154,24 +3107,42 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ZMK module to support the Raytac MDBT50Q-RX USB key as a dongle",
+                        "homepage": null,
                         "id": 969653316,
                         "language": "CMake",
+                        "license": "MIT",
                         "last_commit": "2026-04-12T13:27:01Z",
+                        "open_issues": 1,
                         "owner": "rschenk",
                         "repo": "zmk-component-raytac-dongle",
-                        "stars": 35
+                        "stars": 35,
+                        "topics": [
+                          "zmk",
+                          "zmk-module",
+                          "zmk-modules"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZMK module to support the Raytac MDBT50Q-RX USB key as a dongle",
+                    "homepage": null,
                     "id": 969653316,
                     "language": "CMake",
+                    "license": "MIT",
                     "last_commit": "2026-04-12T13:27:01Z",
+                    "open_issues": 1,
                     "owner": "rschenk",
                     "repo": "zmk-component-raytac-dongle",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "zmk",
+                      "zmk-module",
+                      "zmk-modules"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2182,12 +3153,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "zmk module for bkb charybdis mini/nano with pmw3610 and xiao/nicenano dongle",
+                    "homepage": null,
                     "id": 815820317,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-12-03T14:40:45Z",
+                    "open_issues": 1,
                     "owner": "victorlucachi",
                     "repo": "zmk-keyboards-charybdis",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "bastardkb",
+                      "charybdis",
+                      "zmk",
+                      "zmk-config",
+                      "zmk-dongle"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2203,24 +3185,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1021895308,
                         "language": null,
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-01T16:45:44Z",
+                        "open_issues": 1,
                         "owner": "t-ogura",
                         "repo": "zmk-config-prospector",
-                        "stars": 65
+                        "stars": 65,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZMK module for the Prospector dongle",
+                    "homepage": null,
                     "id": 1021888597,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-01T16:40:15Z",
+                    "open_issues": 0,
                     "owner": "t-ogura",
                     "repo": "prospector-zmk-module",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2231,12 +3223,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1038788217,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-03-11T21:15:02Z",
+                    "open_issues": 2,
                     "owner": "joaopedropio",
                     "repo": "snake-module",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2247,12 +3244,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Prospector but for ST7735S display",
+                    "homepage": null,
                     "id": 974314790,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-04-28T15:28:49Z",
+                    "open_issues": 0,
                     "owner": "dhruvinsh",
                     "repo": "zmk-prospector",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2265,12 +3267,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Desktop ZMK Dongle with color LCD screen",
+                        "homepage": null,
                         "id": 887028437,
                         "language": null,
+                        "license": "CERN-OHL-P-2.0",
                         "last_commit": "2025-11-22T00:05:38Z",
+                        "open_issues": 11,
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 789
+                        "stars": 789,
+                        "topics": [
+                          "zmk"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2281,12 +3290,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.",
+                        "homepage": null,
                         "id": 446867932,
                         "language": "Shell",
+                        "license": "MIT",
                         "last_commit": "2026-05-08T14:46:06Z",
+                        "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 494
+                        "stars": 494,
+                        "topics": [
+                          "zmk"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2297,12 +3313,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.",
+                        "homepage": null,
                         "id": 446867932,
                         "language": "Shell",
+                        "license": "MIT",
                         "last_commit": "2026-05-08T14:46:06Z",
+                        "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 494
+                        "stars": 494,
+                        "topics": [
+                          "zmk"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2313,12 +3336,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Custom status screen for zmk dongles",
+                        "homepage": null,
                         "id": 797803307,
                         "language": "C",
+                        "license": "MIT",
                         "last_commit": "2026-02-21T17:19:44Z",
+                        "open_issues": 5,
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 265
+                        "stars": 265,
+                        "topics": [
+                          "zmk",
+                          "zmk-config",
+                          "zmk-dongle",
+                          "zmk-module"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2329,12 +3362,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Custom status screen for zmk dongles",
+                        "homepage": null,
                         "id": 797803307,
                         "language": "C",
+                        "license": "MIT",
                         "last_commit": "2026-02-21T17:19:44Z",
+                        "open_issues": 5,
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 265
+                        "stars": 265,
+                        "topics": [
+                          "zmk",
+                          "zmk-config",
+                          "zmk-dongle",
+                          "zmk-module"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2345,12 +3388,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is keymap configuration for redox zmk firmware",
+                        "homepage": null,
                         "id": 776086447,
                         "language": "C",
+                        "license": null,
                         "last_commit": "2024-07-22T16:51:01Z",
+                        "open_issues": 0,
                         "owner": "rain2813",
                         "repo": "zmk-cygnus-oled",
-                        "stars": 61
+                        "stars": 61,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2366,24 +3414,34 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 1043834686,
                             "language": null,
+                            "license": null,
                             "last_commit": "2025-10-23T01:05:33Z",
+                            "open_issues": 0,
                             "owner": "joaopedropio",
                             "repo": "snake-dongle-shell",
-                            "stars": 0
+                            "stars": 0,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T01:08:45.702Z"
                         }
                       ],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1052887767,
                         "language": null,
+                        "license": null,
                         "last_commit": "2026-03-06T04:12:57Z",
+                        "open_issues": 1,
                         "owner": "joaopedropio",
                         "repo": "snake-dongle",
-                        "stars": 48
+                        "stars": 48,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2394,12 +3452,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 780704989,
                         "language": "JavaScript",
+                        "license": null,
                         "last_commit": "2024-11-09T22:47:38Z",
+                        "open_issues": 0,
                         "owner": "dohn-joh",
                         "repo": "dongle-zmk",
-                        "stars": 27
+                        "stars": 27,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2410,12 +3473,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 938223080,
                         "language": "C",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-08-01T23:11:52Z",
+                        "open_issues": 0,
                         "owner": "leafflat",
                         "repo": "sai44",
-                        "stars": 19
+                        "stars": 19,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2426,12 +3494,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Gerber files and other relevant hardware pieces for NRF52840 USB dongles",
+                        "homepage": null,
                         "id": 752403100,
                         "language": null,
+                        "license": null,
                         "last_commit": "2024-03-01T04:19:01Z",
+                        "open_issues": 0,
                         "owner": "spe2",
                         "repo": "zmk_dongle_hardware",
-                        "stars": 14
+                        "stars": 14,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     },
@@ -2442,12 +3515,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ZMK module for the Prospector dongle",
+                        "homepage": null,
                         "id": 890179454,
                         "language": "C",
+                        "license": "MIT",
                         "last_commit": "2026-02-17T04:21:24Z",
+                        "open_issues": 0,
                         "owner": "tokyo2006",
                         "repo": "prospector-zmk-module",
-                        "stars": 11
+                        "stars": 11,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
@@ -2481,12 +3559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 801951964,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T20:50:41Z",
+                "open_issues": 59,
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
-                "stars": 314
+                "stars": 314,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2497,12 +3580,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cli tool to generate preview images from a zmk .keymap file",
+                "homepage": null,
                 "id": 451657424,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-26T19:39:13Z",
+                "open_issues": 8,
                 "owner": "MrMarble",
                 "repo": "zmk-viewer",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "cli",
+                  "generator",
+                  "keymap",
+                  "layout",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2513,12 +3607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module to generate localized keyboard layout headers for ZMK Firmware",
+                "homepage": null,
                 "id": 568580586,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-09T21:05:04Z",
+                "open_issues": 3,
                 "owner": "joelspadin",
                 "repo": "zmk-locale-generator",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2529,12 +3628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1118532536,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-01T01:37:57Z",
+                "open_issues": 0,
                 "owner": "efogdev",
                 "repo": "zmk-keymap-shell",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2550,12 +3654,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A web based graphical editor of ZMK keymaps.",
+                    "homepage": "http://nickcoutsos.github.io/keymap-editor",
                     "id": 363959496,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T01:14:51Z",
+                    "open_issues": 66,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2062,
+                    "topics": [
+                      "configurator",
+                      "editor",
+                      "gui",
+                      "keymap-editor",
+                      "zmk"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 },
@@ -2566,12 +3681,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A web based graphical editor of ZMK keymaps.",
+                    "homepage": "http://nickcoutsos.github.io/keymap-editor",
                     "id": 363959496,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T01:14:51Z",
+                    "open_issues": 66,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2062
+                    "stars": 2062,
+                    "topics": [
+                      "configurator",
+                      "editor",
+                      "gui",
+                      "keymap-editor",
+                      "zmk"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -2589,12 +3715,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing",
+                    "homepage": "https://caksoylar.github.io/keymap-drawer",
                     "id": 562298375,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-12T04:25:22Z",
+                    "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1319
+                    "stars": 1319,
+                    "topics": [
+                      "keyboard",
+                      "keymap-drawer",
+                      "keymaps",
+                      "qmk",
+                      "qmk-keymap",
+                      "zmk"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
                 }
@@ -2617,12 +3755,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Web app for converting between physical layout formats for ZMK Studio",
+                        "homepage": "https://zmk-physical-layout-converter.streamlit.app/",
                         "id": 834730219,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-12-09T22:57:20Z",
+                        "open_issues": 0,
                         "owner": "caksoylar",
                         "repo": "zmk-physical-layout-converter",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
@@ -2640,12 +3783,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Helper code for dealing with rendering keyboard layouts.",
+                        "homepage": "https://nickcoutsos.github.io/keymap-layout-tools/",
                         "id": 602802862,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2026-03-14T16:53:13Z",
+                        "open_issues": 3,
                         "owner": "nickcoutsos",
                         "repo": "keymap-layout-tools",
-                        "stars": 38
+                        "stars": 38,
+                        "topics": [
+                          "keyboard-layout"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
                     }
@@ -2667,12 +3817,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A system tray app to monitor the battery level of ZMK-based keyboards",
+                "homepage": null,
                 "id": 969602444,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T12:00:05Z",
+                "open_issues": 5,
                 "owner": "kot149",
                 "repo": "zmk-battery-center",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "bluetooth-low-energy",
+                  "tauri-app",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2683,12 +3842,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Split Battery Status in system tray",
+                "homepage": null,
                 "id": 562852676,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-05T12:49:00Z",
+                "open_issues": 3,
                 "owner": "Maksim-Isakau",
                 "repo": "zmk-split-battery",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "battery-level",
+                  "bluetooth-low-energy",
+                  "keyboard",
+                  "wireless",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2699,12 +3869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS menu bar applet for battery levels of ZMK split keyboards",
+                "homepage": null,
                 "id": 770664132,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2024-06-14T21:30:45Z",
+                "open_issues": 5,
                 "owner": "codyd51",
                 "repo": "Mighty-Mitts",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2715,12 +3890,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opensource tool for peripheral battery monitoring zmk split keyboard over BLE for linux ",
+                "homepage": null,
                 "id": 772151749,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-01-03T21:11:06Z",
+                "open_issues": 0,
                 "owner": "mh4x0f",
                 "repo": "zmkBATx",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "battery-level",
+                  "ble",
+                  "bluetooth-low-energy",
+                  "keyboard",
+                  "wireless",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2731,12 +3918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Waybar custom module for ZMK powered keyboards",
+                "homepage": null,
                 "id": 1117517079,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-12-16T12:28:38Z",
+                "open_issues": 0,
                 "owner": "JanValiska",
                 "repo": "ZmkBatteryClient",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -2754,12 +3946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 593761255,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-29T14:17:05Z",
+                "open_issues": 2,
                 "owner": "zzeneg",
                 "repo": "qmk-hid-host",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2770,12 +3967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 857685559,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-12-31T16:35:03Z",
+                "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-companion-macos",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -2793,12 +3995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "c!n tester is a hardware and software system designed for testing ProMicro-like microcontrollers.",
+                "homepage": null,
                 "id": 1092012670,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-19T18:42:48Z",
+                "open_issues": 0,
                 "owner": "aroum",
                 "repo": "cn_tester",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2809,12 +4016,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Docker images for ZMK",
+                "homepage": "https://hub.docker.com/u/zmkfirmware",
                 "id": 319921749,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-06-11T23:58:17Z",
+                "open_issues": 19,
                 "owner": "zmkfirmware",
                 "repo": "zmk-docker",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "docker",
+                  "zephyr",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2825,12 +4041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool for ZMK Firmware",
+                "homepage": "https://zmk.dev/",
                 "id": 844201484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-08T13:32:58Z",
+                "open_issues": 17,
                 "owner": "zmkfirmware",
                 "repo": "zmk-cli",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2841,12 +4062,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github workflows for maintaining ZMK modules",
+                "homepage": null,
                 "id": 901394096,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-01T17:31:25Z",
+                "open_issues": 3,
                 "owner": "urob",
                 "repo": "zmk-actions",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "zmk",
+                  "zmk-module"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -2868,12 +4097,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 'backpack' for the nice!nano to make wiring up a battery cleaner on boards without native support",
+            "homepage": null,
             "id": 557088379,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-03-26T13:46:07Z",
+            "open_issues": 0,
             "owner": "hazels-garage",
             "repo": "battpack",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "keyboard",
+              "nicenano"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -2884,12 +4121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 600043354,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-25T02:48:02Z",
+            "open_issues": 1,
             "owner": "davidphilipbarr",
             "repo": "nicehatharry",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -2900,12 +4142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ProMicro hat with a VIK connector",
+            "homepage": null,
             "id": 1018213708,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-11T20:38:32Z",
+            "open_issues": 0,
             "owner": "george-norton",
             "repo": "vik-hat",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         }
@@ -2922,12 +4169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project UFA brings the open ZMK firmware to gaming mice with compatible hardware, enabling deeper customization, transparency, and improved security. Its goal is to create a fully open, user-controlled ecosystem for modern pointing devices.",
+            "homepage": null,
             "id": 1115395045,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-17T17:06:24Z",
+            "open_issues": 1,
             "owner": "aroum",
             "repo": "ufa",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -2943,12 +4195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.",
+                "homepage": "https://ploopy.co/nano-trackball",
                 "id": 337818379,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-24T16:16:09Z",
+                "open_issues": 7,
                 "owner": "ploopyco",
                 "repo": "nano-trackball",
-                "stars": 558
+                "stars": 558,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2959,24 +4216,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.",
+                "homepage": "https://ploopy.co/nano-trackball",
                 "id": 867072966,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-22T02:23:37Z",
+                "open_issues": 0,
                 "owner": "tokyo2006",
                 "repo": "nano-trackball",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 708320911,
             "language": "C",
+            "license": null,
             "last_commit": "2025-03-17T11:31:36Z",
+            "open_issues": 1,
             "owner": "tokyo2006",
             "repo": "zmk-for-cygnus",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -2987,12 +4254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK support for Ploopy RP2040 devices",
+            "homepage": null,
             "id": 987753191,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-12T19:48:13Z",
+            "open_issues": 0,
             "owner": "george-norton",
             "repo": "zmk-keyboard-ploopy",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3003,12 +4275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1072066748,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-08T08:54:51Z",
+            "open_issues": 0,
             "owner": "M-Tolbot",
             "repo": "zmk-comfig-mouset",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3019,12 +4296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 885993437,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-18T12:34:36Z",
+            "open_issues": 0,
             "owner": "badjeff",
             "repo": "moudabella-zmk-config",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3035,12 +4317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1032002521,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-18T12:34:29Z",
+            "open_issues": 0,
             "owner": "badjeff",
             "repo": "leylabella-zmk-config",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         }
@@ -3059,12 +4346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB-enabled bootloaders for the nRF52 BLE SoC chips",
+                "homepage": null,
                 "id": 955520103,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-05T06:17:13Z",
+                "open_issues": 0,
                 "owner": "aroum",
                 "repo": "nRF52_Bootloader_custom_LED",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3082,12 +4374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pro Micro alternative for wireless keyboards",
+                "homepage": "https://github.com/joric/nrfmicro/wiki",
                 "id": 172212364,
                 "language": "HTML",
+                "license": "Unlicense",
                 "last_commit": "2025-08-04T01:46:45Z",
+                "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1856
+                "stars": 1856,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -3098,12 +4395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pro Micro alternative for wireless keyboards",
+                "homepage": "https://github.com/joric/nrfmicro/wiki",
                 "id": 172212364,
                 "language": "HTML",
+                "license": "Unlicense",
                 "last_commit": "2025-08-04T01:46:45Z",
+                "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1856
+                "stars": 1856,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -3114,12 +4416,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth LE nRF52840 microcontroller in a pro-micro footprint.",
+                "homepage": null,
                 "id": 326138475,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-14T13:11:14Z",
+                "open_issues": 6,
                 "owner": "zhiayang",
                 "repo": "mikoto",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "bluetooth",
+                  "electronics",
+                  "kicad",
+                  "nrf52840",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3137,12 +4450,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of ergonomic split keyboards ⌨",
+                "homepage": null,
                 "id": 144284339,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-06T10:55:25Z",
+                "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5861
+                "stars": 5861,
+                "topics": [
+                  "ergonomic-keyboard",
+                  "hardware",
+                  "keyboards",
+                  "mechanical-keyboard",
+                  "split-keyboard"
+                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -3153,12 +4477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A short hardware-designguide for ZMK keyboards",
+                "homepage": null,
                 "id": 341704993,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-06T17:49:04Z",
+                "open_issues": 6,
                 "owner": "ebastler",
                 "repo": "zmk-designguide",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -3169,12 +4498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A short hardware-designguide for ZMK keyboards",
+                "homepage": null,
                 "id": 341704993,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-06T17:49:04Z",
+                "open_issues": 6,
                 "owner": "ebastler",
                 "repo": "zmk-designguide",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3201,24 +4535,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nRF Connect SDK main repository",
+                "homepage": "https://nrfconnectdocs.nordicsemi.com/ncs/latest/nrf/",
                 "id": 121516035,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:02:20Z",
+                "open_issues": 257,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1416
+                "stars": 1416,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "nRF Connect SDK main repository",
+            "homepage": "https://nrfconnectdocs.nordicsemi.com/ncs/latest/nrf/",
             "id": 121516035,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:02:20Z",
+            "open_issues": 257,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1416
+            "stars": 1416,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3229,12 +4573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 848173307,
             "language": null,
+            "license": "CERN-OHL-P-2.0",
             "last_commit": "2025-04-02T00:48:44Z",
+            "open_issues": 4,
             "owner": "taichan1113",
             "repo": "AdeptBLE",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3245,12 +4594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK Firmware Repository",
+            "homepage": "https://zmk.dev/",
             "id": 982571016,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-06-01T02:10:25Z",
+            "open_issues": 1,
             "owner": "rianadon",
             "repo": "zmk",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3266,12 +4620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Firmware Repository",
+                "homepage": "https://zmk.dev/",
                 "id": 517866307,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-28T08:58:23Z",
+                "open_issues": 4,
                 "owner": "Keychron",
                 "repo": "zmk",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3289,12 +4648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production repository for the all-new Advantage360 Professional using ZMK engine",
+                "homepage": null,
                 "id": 476816334,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-14T17:55:56Z",
+                "open_issues": 24,
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
-                "stars": 602
+                "stars": 602,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3312,12 +4676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Firmware Repository",
+                "homepage": "https://zmk.dev/",
                 "id": 497545675,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-08-11T17:47:26Z",
+                "open_issues": 0,
                 "owner": "osmakari",
                 "repo": "zmk",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             }
@@ -3336,12 +4705,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
+            "homepage": null,
             "id": 596031042,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-05-30T08:13:00Z",
+            "open_issues": 2,
             "owner": "dotintent",
             "repo": "awesome-ble",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "awesome",
+              "awesome-ble",
+              "awesome-list",
+              "awesome-readme",
+              "ble",
+              "bluetooth",
+              "bluetooth-le",
+              "bluetooth-low-energy"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3352,12 +4735,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of links to nice!view shield designs",
+            "homepage": null,
             "id": 946441077,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-25T05:29:54Z",
+            "open_issues": 0,
             "owner": "whoop-t",
             "repo": "nice-shield-collection",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "nicenano",
+              "niceview",
+              "zmk",
+              "zmk-config",
+              "zmk-module",
+              "zmk-shield"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3368,12 +4763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome projects related to ZMK",
+            "homepage": null,
             "id": 836863221,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-04-29T14:54:51Z",
+            "open_issues": 0,
             "owner": "ssbb",
             "repo": "awesome-zmk",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         },
@@ -3384,12 +4784,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nRF5xxxx family",
+            "homepage": null,
             "id": 344943847,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-06-14T21:17:48Z",
+            "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-nRF5",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ble",
+              "bluetooth",
+              "bluetooth-le",
+              "bluetooth-low-energy",
+              "nordic-bluetooth",
+              "nordicsemi",
+              "nrf51",
+              "nrf51822",
+              "nrf52",
+              "nrf52810",
+              "nrf52832",
+              "nrf52840",
+              "s132",
+              "softdevice"
+            ]
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
         }
@@ -3398,15 +4820,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:08:45.702Z",
+    "last_updated": "2026-08-29T04:54:40.856Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
+      "homepage": "https://www.youtube.com/c/mctechnology17",
       "id": 1079813254,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-06T06:33:52Z",
+      "open_issues": 4,
       "owner": "mctechnology17",
       "repo": "awesome-zmk",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "zmk-config",
+        "zmk-dongle",
+        "zmk-firmware",
+        "zmk-module",
+        "zmk-shield"
+      ]
     },
     "original_repository_sha": "e9ae67fc39d9718039da6693c8c9c1f005c9b2af",
     "enhanced_repository": "enhansome/enhansome-zmk",
