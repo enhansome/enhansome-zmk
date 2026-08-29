@@ -12,11 +12,12 @@
             "archived": false,
             "id": 270692521,
             "language": "C",
-            "last_commit": "2026-08-25T05:03:32Z",
+            "last_commit": "2026-08-28T05:03:35Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4240
-          }
+            "stars": 4243
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "children": [
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-28T01:27:29Z",
+                "last_commit": "2026-08-28T19:34:31Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16327
-              }
+                "stars": 16337
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-27T14:21:14Z",
+                "last_commit": "2026-08-28T13:02:20Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1415
-              }
+                "stars": 1416
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "NordicDeveloperAcademy",
                 "repo": "ncs-fund",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "jakkra",
                 "repo": "ZSWatch",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": "Zephyr Project:\nNordic Semiconductor:\nZSWatch - Zephyr Smartwatch:",
@@ -104,7 +109,8 @@
             "owner": "zmkfirmware",
             "repo": "unified-zmk-config-template",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "zmkfirmware",
             "repo": "zmk-module-template",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         }
       ],
       "title": "Quick Start"
@@ -136,11 +143,12 @@
             "archived": false,
             "id": 501412238,
             "language": "C++",
-            "last_commit": "2026-08-24T05:32:44Z",
+            "last_commit": "2026-08-29T00:10:45Z",
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1370
-          }
+            "stars": 1371
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -154,8 +162,9 @@
             "last_commit": "2026-03-12T16:03:42Z",
             "owner": "sunaku",
             "repo": "glove80-keymaps",
-            "stars": 760
-          }
+            "stars": 759
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
             "stars": 647
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "mctechnology17",
             "repo": "zmk-config",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "eigatech",
             "repo": "zmk-config",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "aroum",
             "repo": "zmk-enki42-dongle",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "caksoylar",
             "repo": "zmk-config",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "a741725193",
             "repo": "zmk-new_corne",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "kumamuk-git",
             "repo": "zmk-config-roBa",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "SethMilliken",
             "repo": "zmk-config",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -290,7 +307,8 @@
             "owner": "englmaxi",
             "repo": "zmk-config",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -305,7 +323,8 @@
             "owner": "badjeff",
             "repo": "zmk-config",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -320,7 +339,8 @@
             "owner": "tokyo2006",
             "repo": "zmk-config-corne",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -334,8 +354,9 @@
             "last_commit": "2026-08-08T03:29:19Z",
             "owner": "MickiusMousius",
             "repo": "RolioFirmware",
-            "stars": 15
-          }
+            "stars": 16
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -350,7 +371,8 @@
             "owner": "sadekbaroudi",
             "repo": "zmk-fingerpunch-keyboards",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -365,7 +387,8 @@
             "owner": "a741725193",
             "repo": "zmk-corne-oled",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "children": [
@@ -382,7 +405,8 @@
                 "owner": "paulshir",
                 "repo": "zmk-keyboard-iris-ce",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -397,7 +421,8 @@
                 "owner": "petejohanson",
                 "repo": "splitkb-halcyon-zmk-config",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -412,7 +437,8 @@
                 "owner": "petejohanson",
                 "repo": "splitkb-halcyon-zmk-module",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -427,7 +453,8 @@
                 "owner": "SSheldon",
                 "repo": "zmk-keyboard-chiri-ce",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -453,7 +480,8 @@
             "owner": "joric",
             "repo": "nrfmicro",
             "stars": 1856
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -468,7 +496,8 @@
             "owner": "maksimdrachov",
             "repo": "zephyr-rtos-tutorial",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -483,7 +512,8 @@
             "owner": "golioth",
             "repo": "awesome-zephyr-rtos",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -498,7 +528,8 @@
             "owner": "whoop-t",
             "repo": "nice-shield-base",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "children": [
@@ -514,8 +545,9 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72969
-              }
+                "stars": 72981
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -529,8 +561,9 @@
                 "last_commit": "2026-08-27T17:04:16Z",
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36729
-              }
+                "stars": 36736
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -544,8 +577,9 @@
                 "last_commit": "2024-09-01T20:32:39Z",
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28167
-              }
+                "stars": 28169
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -560,7 +594,8 @@
                 "owner": "dictcp",
                 "repo": "awesome-git",
                 "stars": 2936
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -575,7 +610,8 @@
                 "owner": "moul",
                 "repo": "awesome-ssh",
                 "stars": 2835
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -590,7 +626,8 @@
                 "owner": "dreftymac",
                 "repo": "awesome-yaml",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -618,7 +655,8 @@
                 "owner": "urob",
                 "repo": "zmk-helpers",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -633,7 +671,8 @@
                 "owner": "urob",
                 "repo": "zmk-auto-layer",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -647,8 +686,9 @@
                 "last_commit": "2026-08-11T19:42:49Z",
                 "owner": "badjeff",
                 "repo": "zmk-feature-split-esb",
-                "stars": 54
-              }
+                "stars": 55
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -663,7 +703,8 @@
                 "owner": "urob",
                 "repo": "zmk-leader-key",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -678,7 +719,8 @@
                 "owner": "zzeneg",
                 "repo": "zmk-raw-hid",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -689,11 +731,12 @@
                 "archived": false,
                 "id": 1033443392,
                 "language": "C",
-                "last_commit": "2026-08-06T10:41:10Z",
+                "last_commit": "2026-08-28T20:40:05Z",
                 "owner": "urob",
                 "repo": "zmk-unicode",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -708,7 +751,8 @@
                 "owner": "englmaxi",
                 "repo": "zmk-hid-trackball-interface",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -723,7 +767,8 @@
                 "owner": "urob",
                 "repo": "zmk-adaptive-key",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -738,7 +783,8 @@
                 "owner": "ssbb",
                 "repo": "zmk-listeners",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -753,7 +799,8 @@
                 "owner": "dhruvinsh",
                 "repo": "zmk-tri-state",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -768,7 +815,8 @@
                 "owner": "ssbb",
                 "repo": "zmk-antecedent-morph",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -783,7 +831,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-input-relay",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -798,7 +847,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-hid-io",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -813,7 +863,8 @@
                 "owner": "elpekenin",
                 "repo": "zmk-userspace",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -828,7 +879,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-output-behavior-listener",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -843,7 +895,8 @@
                 "owner": "george-norton",
                 "repo": "zmk-behavior-sensor-attr-cycle",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -858,7 +911,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-behavior-insomnia",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -873,7 +927,8 @@
                 "owner": "dhruvinsh",
                 "repo": "zmk-num-word",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -888,7 +943,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-output-relay",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -903,7 +959,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-input-processor-xyz",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -918,7 +975,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-bonding-tweak",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -933,7 +991,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-split-peripheral-bonding-tweak",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -948,7 +1007,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-behavior-battery-percentage-printer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -963,7 +1023,8 @@
                 "owner": "ssbb",
                 "repo": "zmk-deadkey-slayer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -978,7 +1039,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-input-processor-mixer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -993,7 +1055,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-behavior-key-press-lip",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1071,8 @@
                 "owner": "a741725193",
                 "repo": "zmk-tog-io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -1032,7 +1096,8 @@
                     "owner": "AYM1607",
                     "repo": "zmk-driver-azoteq-iqs5xx",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1047,7 +1112,8 @@
                     "owner": "petejohanson",
                     "repo": "cirque-input-module",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1062,7 +1128,8 @@
                     "owner": "sekigon-gonnoc",
                     "repo": "iqs7211e-trackpad-module",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1077,7 +1144,8 @@
                     "owner": "Ahmed-M-Osman1",
                     "repo": "zmk-driver-azoteq",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1097,7 +1165,8 @@
                         "owner": "ZitaoTech",
                         "repo": "HackberryPi-4B",
                         "stars": 69
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -1112,7 +1181,8 @@
                         "owner": "ZitaoTech",
                         "repo": "9981_BLE_USB_Keyboard_Pro",
                         "stars": 27
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -1127,7 +1197,8 @@
                         "owner": "ZitaoTech",
                         "repo": "zmk",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -1138,7 +1209,8 @@
                     "owner": "ZitaoTech",
                     "repo": "zmk-config-9981-pro",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1160,7 +1232,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-pmw3610-driver",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1175,7 +1248,8 @@
                     "owner": "inorichi",
                     "repo": "zmk-pmw3610-driver",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1195,7 +1269,8 @@
                         "owner": "badjeff",
                         "repo": "paw3395-pcb",
                         "stars": 34
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -1206,7 +1281,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-paw3395-driver",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1221,7 +1297,8 @@
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-driver-paw3222",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1236,7 +1313,8 @@
                     "owner": "george-norton",
                     "repo": "zmk-driver-pmw3360",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1256,7 +1334,8 @@
                         "owner": "cdc-mkb",
                         "repo": "zmk",
                         "stars": 23
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -1267,7 +1346,8 @@
                     "owner": "t0bybr",
                     "repo": "pim447",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1287,7 +1367,8 @@
                         "owner": "kzyz",
                         "repo": "corne-ulp-ball",
                         "stars": 0
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -1298,7 +1379,8 @@
                     "owner": "kzyz",
                     "repo": "zmk-az1uball-driver",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1320,7 +1402,8 @@
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
                     "stars": 237
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1335,7 +1418,8 @@
                     "owner": "badjeff",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1357,7 +1441,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-analog-input-driver",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1372,7 +1457,8 @@
                     "owner": "letmegobacktosleep",
                     "repo": "zmk-keyboard-joystick-wasd",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1394,7 +1480,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-drv2605-driver",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1416,7 +1503,8 @@
                     "owner": "mctechnology17",
                     "repo": "zmk-oled-adapter",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1431,7 +1519,8 @@
                     "owner": "MickiusMousius",
                     "repo": "zmk-ls0xxvcom-driver",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1453,7 +1542,8 @@
                     "owner": "elpekenin",
                     "repo": "zmk-userspace",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1467,8 +1557,9 @@
                     "last_commit": "2026-07-09T21:45:45Z",
                     "owner": "caksoylar",
                     "repo": "zmk-rgbled-widget",
-                    "stars": 231
-                  }
+                    "stars": 232
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1483,7 +1574,8 @@
                     "owner": "englmaxi",
                     "repo": "zmk-config",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1498,7 +1590,8 @@
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-status-led",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1513,7 +1606,8 @@
                     "owner": "aroum",
                     "repo": "zmk-kabarga",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1528,7 +1622,8 @@
                     "owner": "dhruvinsh",
                     "repo": "zmk-config",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1543,7 +1638,8 @@
                     "owner": "4mplelab",
                     "repo": "zmk-feature-charge-indicator",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1558,7 +1654,8 @@
                     "owner": "joelspadin",
                     "repo": "zmk-keyboards",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1580,7 +1677,8 @@
                     "owner": "petejohanson",
                     "repo": "ec-support-zmk-module",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1595,7 +1693,8 @@
                     "owner": "sekigon-gonnoc",
                     "repo": "zmk-feature-non-lipo-battery-management",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1610,7 +1709,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-adns9800-driver",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1625,7 +1725,8 @@
                     "owner": "george-norton",
                     "repo": "zmk-driver-rp2040-sleep",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1640,7 +1741,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-tb6612fng-driver",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1655,7 +1757,8 @@
                     "owner": "badjeff",
                     "repo": "zmk-drv883x-driver",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ],
               "description": null,
@@ -1682,7 +1785,8 @@
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1801,8 @@
                 "owner": "M165437",
                 "repo": "nice-view-gem",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1817,8 @@
                 "owner": "GPeye",
                 "repo": "urchin-peripheral-animation",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1833,8 @@
                 "owner": "GPeye",
                 "repo": "hammerbeam-slideshow",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1849,8 @@
                 "owner": "infely",
                 "repo": "nice-view-battery",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1865,8 @@
                 "owner": "kevinpastor",
                 "repo": "nice-view-elemental",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1881,8 @@
                 "owner": "dsifry",
                 "repo": "nice-view-mod",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1897,8 @@
                 "owner": "mctechnology17",
                 "repo": "zmk-dongle-display-view",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1913,8 @@
                 "owner": "zzeneg",
                 "repo": "zmk-nice-view-hid",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1929,8 @@
                 "owner": "GPeye",
                 "repo": "mario-peripheral-animation",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1831,8 +1944,9 @@
                 "last_commit": "2026-08-08T03:29:19Z",
                 "owner": "MickiusMousius",
                 "repo": "RolioFirmware",
-                "stars": 15
-              }
+                "stars": 16
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1847,7 +1961,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-adventure-time",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1862,7 +1977,8 @@
                 "owner": "Ziembski",
                 "repo": "nice-view-press-start",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1877,7 +1993,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-one-punch-ok",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1892,7 +2009,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-fry-button-miss",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2025,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-luffy-wanted",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2041,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-futurama-sus",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1937,7 +2057,8 @@
                 "owner": "Jestar342",
                 "repo": "nice-shield-spacemarine",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -1952,7 +2073,8 @@
                 "owner": "whoop-t",
                 "repo": "nice-luffy-gear-five",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "children": [
@@ -1969,7 +2091,8 @@
                     "owner": "englmaxi",
                     "repo": "zmk-dongle-display",
                     "stars": 265
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1984,7 +2107,8 @@
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
                     "stars": 257
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -1999,7 +2123,8 @@
                     "owner": "carrefinho",
                     "repo": "prospector-zmk-module",
                     "stars": 167
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2014,7 +2139,8 @@
                     "owner": "mctechnology17",
                     "repo": "zmk-dongle-display-view",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2034,7 +2160,8 @@
                         "owner": "rschenk",
                         "repo": "zmk-component-raytac-dongle",
                         "stars": 35
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -2045,7 +2172,8 @@
                     "owner": "rschenk",
                     "repo": "zmk-component-raytac-dongle",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2060,7 +2188,8 @@
                     "owner": "victorlucachi",
                     "repo": "zmk-keyboards-charybdis",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2080,7 +2209,8 @@
                         "owner": "t-ogura",
                         "repo": "zmk-config-prospector",
                         "stars": 65
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "repo_info": {
@@ -2091,7 +2221,8 @@
                     "owner": "t-ogura",
                     "repo": "prospector-zmk-module",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2106,7 +2237,8 @@
                     "owner": "joaopedropio",
                     "repo": "snake-module",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2121,7 +2253,8 @@
                     "owner": "dhruvinsh",
                     "repo": "zmk-prospector",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "children": [
@@ -2138,7 +2271,8 @@
                         "owner": "carrefinho",
                         "repo": "prospector",
                         "stars": 789
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2153,7 +2287,8 @@
                         "owner": "rafaelromao",
                         "repo": "keyboards",
                         "stars": 494
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2168,7 +2303,8 @@
                         "owner": "rafaelromao",
                         "repo": "keyboards",
                         "stars": 494
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2183,7 +2319,8 @@
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
                         "stars": 265
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2198,7 +2335,8 @@
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
                         "stars": 265
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2213,7 +2351,8 @@
                         "owner": "rain2813",
                         "repo": "zmk-cygnus-oled",
                         "stars": 61
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2233,7 +2372,8 @@
                             "owner": "joaopedropio",
                             "repo": "snake-dongle-shell",
                             "stars": 0
-                          }
+                          },
+                          "first_seen": "2026-08-29T01:08:45.702Z"
                         }
                       ],
                       "repo_info": {
@@ -2244,7 +2384,8 @@
                         "owner": "joaopedropio",
                         "repo": "snake-dongle",
                         "stars": 48
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2259,7 +2400,8 @@
                         "owner": "dohn-joh",
                         "repo": "dongle-zmk",
                         "stars": 27
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2274,7 +2416,8 @@
                         "owner": "leafflat",
                         "repo": "sai44",
                         "stars": 19
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2289,7 +2432,8 @@
                         "owner": "spe2",
                         "repo": "zmk_dongle_hardware",
                         "stars": 14
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     },
                     {
                       "node_type": "item",
@@ -2304,7 +2448,8 @@
                         "owner": "tokyo2006",
                         "repo": "prospector-zmk-module",
                         "stars": 11
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ],
                   "description": null,
@@ -2342,7 +2487,8 @@
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2357,7 +2503,8 @@
                 "owner": "MrMarble",
                 "repo": "zmk-viewer",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2372,7 +2519,8 @@
                 "owner": "joelspadin",
                 "repo": "zmk-locale-generator",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2387,7 +2535,8 @@
                 "owner": "efogdev",
                 "repo": "zmk-keymap-shell",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "group",
@@ -2407,7 +2556,8 @@
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2062
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 },
                 {
                   "node_type": "item",
@@ -2422,7 +2572,8 @@
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2062
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ]
             },
@@ -2443,8 +2594,9 @@
                     "last_commit": "2026-08-12T04:25:22Z",
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1318
-                  }
+                    "stars": 1319
+                  },
+                  "first_seen": "2026-08-29T01:08:45.702Z"
                 }
               ]
             },
@@ -2471,7 +2623,8 @@
                         "owner": "caksoylar",
                         "repo": "zmk-physical-layout-converter",
                         "stars": 13
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ]
                 },
@@ -2493,7 +2646,8 @@
                         "owner": "nickcoutsos",
                         "repo": "keymap-layout-tools",
                         "stars": 38
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:08:45.702Z"
                     }
                   ]
                 }
@@ -2519,7 +2673,8 @@
                 "owner": "kot149",
                 "repo": "zmk-battery-center",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2534,7 +2689,8 @@
                 "owner": "Maksim-Isakau",
                 "repo": "zmk-split-battery",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2549,7 +2705,8 @@
                 "owner": "codyd51",
                 "repo": "Mighty-Mitts",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2564,7 +2721,8 @@
                 "owner": "mh4x0f",
                 "repo": "zmkBATx",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2579,7 +2737,8 @@
                 "owner": "JanValiska",
                 "repo": "ZmkBatteryClient",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -2601,7 +2760,8 @@
                 "owner": "zzeneg",
                 "repo": "qmk-hid-host",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2616,7 +2776,8 @@
                 "owner": "badjeff",
                 "repo": "zmk-companion-macos",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -2638,7 +2799,8 @@
                 "owner": "aroum",
                 "repo": "cn_tester",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2653,7 +2815,8 @@
                 "owner": "zmkfirmware",
                 "repo": "zmk-docker",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2668,7 +2831,8 @@
                 "owner": "zmkfirmware",
                 "repo": "zmk-cli",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2683,7 +2847,8 @@
                 "owner": "urob",
                 "repo": "zmk-actions",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -2708,8 +2873,9 @@
             "last_commit": "2026-03-26T13:46:07Z",
             "owner": "hazels-garage",
             "repo": "battpack",
-            "stars": 66
-          }
+            "stars": 67
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2724,7 +2890,8 @@
             "owner": "davidphilipbarr",
             "repo": "nicehatharry",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2739,7 +2906,8 @@
             "owner": "george-norton",
             "repo": "vik-hat",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         }
       ],
       "title": "Hardware Addons must-have"
@@ -2760,7 +2928,8 @@
             "owner": "aroum",
             "repo": "ufa",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2779,8 +2948,9 @@
                 "last_commit": "2021-08-24T16:16:09Z",
                 "owner": "ploopyco",
                 "repo": "nano-trackball",
-                "stars": 557
-              }
+                "stars": 558
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2795,7 +2965,8 @@
                 "owner": "tokyo2006",
                 "repo": "nano-trackball",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "repo_info": {
@@ -2806,7 +2977,8 @@
             "owner": "tokyo2006",
             "repo": "zmk-for-cygnus",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2821,7 +2993,8 @@
             "owner": "george-norton",
             "repo": "zmk-keyboard-ploopy",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2836,7 +3009,8 @@
             "owner": "M-Tolbot",
             "repo": "zmk-comfig-mouset",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2851,7 +3025,8 @@
             "owner": "badjeff",
             "repo": "moudabella-zmk-config",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -2866,7 +3041,8 @@
             "owner": "badjeff",
             "repo": "leylabella-zmk-config",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         }
       ],
       "title": "Community Pointing Projects as Computer Mouse"
@@ -2889,7 +3065,8 @@
                 "owner": "aroum",
                 "repo": "nRF52_Bootloader_custom_LED",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -2911,7 +3088,8 @@
                 "owner": "joric",
                 "repo": "nrfmicro",
                 "stars": 1856
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2926,7 +3104,8 @@
                 "owner": "joric",
                 "repo": "nrfmicro",
                 "stars": 1856
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2941,7 +3120,8 @@
                 "owner": "zhiayang",
                 "repo": "mikoto",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": "NOTE These are the most popular boards, but there are more\nWireless - Pro Micro Interconnect (nRF52840 and others)\nWired - Pro Micro Interconnect (RP2040 and others)\nWireless - Seeed XIAO Interconnect (nRF52840 and others)\nWired - Seeed XIAO Interconnect (RP2040 and others)",
@@ -2963,7 +3143,8 @@
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
                 "stars": 5861
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2977,8 +3158,9 @@
                 "last_commit": "2024-07-06T17:49:04Z",
                 "owner": "ebastler",
                 "repo": "zmk-designguide",
-                "stars": 492
-              }
+                "stars": 493
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             },
             {
               "node_type": "item",
@@ -2992,8 +3174,9 @@
                 "last_commit": "2024-07-06T17:49:04Z",
                 "owner": "ebastler",
                 "repo": "zmk-designguide",
-                "stars": 492
-              }
+                "stars": 493
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "description": null,
@@ -3020,22 +3203,24 @@
                 "archived": false,
                 "id": 121516035,
                 "language": "C",
-                "last_commit": "2026-08-27T14:21:14Z",
+                "last_commit": "2026-08-28T13:02:20Z",
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1415
-              }
+                "stars": 1416
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 121516035,
             "language": "C",
-            "last_commit": "2026-08-27T14:21:14Z",
+            "last_commit": "2026-08-28T13:02:20Z",
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1415
-          }
+            "stars": 1416
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -3050,7 +3235,8 @@
             "owner": "taichan1113",
             "repo": "AdeptBLE",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -3065,7 +3251,8 @@
             "owner": "rianadon",
             "repo": "zmk",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "group",
@@ -3085,7 +3272,8 @@
                 "owner": "Keychron",
                 "repo": "zmk",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ]
         },
@@ -3107,7 +3295,8 @@
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ]
         },
@@ -3129,7 +3318,8 @@
                 "owner": "osmakari",
                 "repo": "zmk",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
             }
           ]
         }
@@ -3152,7 +3342,8 @@
             "owner": "dotintent",
             "repo": "awesome-ble",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -3167,7 +3358,8 @@
             "owner": "whoop-t",
             "repo": "nice-shield-collection",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -3182,7 +3374,8 @@
             "owner": "ssbb",
             "repo": "awesome-zmk",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         },
         {
           "node_type": "item",
@@ -3197,14 +3390,15 @@
             "owner": "iDoka",
             "repo": "awesome-nRF5",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:08:45.702Z"
         }
       ],
       "title": "Related projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:38:28.514Z",
+    "last_updated": "2026-08-29T01:08:45.702Z",
     "original_repository_info": {
       "archived": false,
       "id": 1079813254,
