@@ -70,7 +70,7 @@ A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drive
 Zephyr™ Mechanical Keyboard (ZMK) Firmware
 
 [![Discord](https://img.shields.io/discord/719497620560543766)](https://zmk.dev/community/discord/invite)
-[![Build](https://github.com/zmkfirmware/zmk/workflows/Build/badge.svg)](https://github.com/zmkfirmware/zmk/actions) ⭐ 4,246 | 🐛 419 | 🌐 C | 📅 2026-08-31
+[![Build](https://github.com/zmkfirmware/zmk/workflows/Build/badge.svg)](https://github.com/zmkfirmware/zmk/actions) ⭐ 4,245 | 🐛 419 | 🌐 C | 📅 2026-08-31
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zmkfirmware/zmk) ![GitHub Repo stars](https://img.shields.io/github/stars/zmkfirmware/zmk)
 
@@ -96,7 +96,7 @@ ZMK makes use of Zephyr modules to include additional source code or configurati
 
 ## Official Resources
 
-* [ZMK GitHub Repository](https://github.com/zmkfirmware/zmk) ⭐ 4,246 | 🐛 419 | 🌐 C | 📅 2026-08-31 - The source code and development hub.
+* [ZMK GitHub Repository](https://github.com/zmkfirmware/zmk) ⭐ 4,245 | 🐛 419 | 🌐 C | 📅 2026-08-31 - The source code and development hub.
 * [ZMK Documentation](https://zmk.dev/docs) - The primary source for all information regarding ZMK.
 * [ZMK Discord Server](https://discord.com/invite/sycytVQ) - The main hub for community discussion, support, and development.
 
@@ -104,12 +104,12 @@ ZMK makes use of Zephyr modules to include additional source code or configurati
 
 Zephyr Project:
 
-* [Zephyr Project Code Repository on GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,360 | 🐛 3,853 | 🌐 C | 📅 2026-08-31 - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+* [Zephyr Project Code Repository on GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,373 | 🐛 3,889 | 🌐 C | 📅 2026-09-01 - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 * [Zephyr Project Documentation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - The underlying RTOS for ZMK. Useful for deep-dives and driver development.
 
 Nordic Semiconductor:
 
-* [nRF Connect SDK (sdk-nrf)](https://github.com/nrfconnect/sdk-nrf) ⭐ 1,418 | 🐛 259 | 🌐 C | 📅 2026-08-31 - Main nRF Connect SDK repository (west manifest, subsystems, samples).
+* [nRF Connect SDK (sdk-nrf)](https://github.com/nrfconnect/sdk-nrf) ⭐ 1,418 | 🐛 252 | 🌐 C | 📅 2026-09-01 - Main nRF Connect SDK repository (west manifest, subsystems, samples).
 * [Nordic Developer Academy / Tutorials](https://github.com/NordicDeveloperAcademy/ncs-fund) ⭐ 115 | 🐛 2 | 🌐 C | 📅 2026-07-30 - self-paced courses and examples (useful to onboard newcomers).
 * [Nordic DevZone (Q\&A & Forums)](https://devzone.nordicsemi.com) - official community forum and tech Q\&A (searchable issues, examples, vendor replies).
 * [nRF Connect SDK docs / install guide](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/installation/install_ncs.html) - official installation & platform-specific setup for NCS.
@@ -127,7 +127,7 @@ ZSWatch - Zephyr Smartwatch:
 
 ## Community zmk-config user configurations
 
-* [urob/zmk-config](https://github.com/urob/zmk-config) ⭐ 1,370 | 🐛 3 | 🌐 C++ | 📅 2026-08-31 - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
+* [urob/zmk-config](https://github.com/urob/zmk-config) ⭐ 1,371 | 🐛 3 | 🌐 C++ | 📅 2026-08-31 - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
 * [sunaku/glove80-keymaps](https://github.com/sunaku/glove80-keymaps) ⭐ 759 | 🐛 21 | 🌐 HTML | 📅 2026-03-12 - Glorious Engrammer keymap for Glove80 keyboard
 * [manna-harbour/miryoku\_zmk](https://github.com/manna-harbour/miryoku_zmk) ⭐ 647 | 🐛 14 | 🌐 C | 📅 2025-06-27 - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.
 * [mctechnology17/zmk-config](https://github.com/mctechnology17/zmk-config) ⭐ 318 | 🐛 3 | 🌐 C++ | 📅 2026-01-11 - Quickly and easily configure your Wireless corne - sofle - lily58 keyboard with ZMK
@@ -135,7 +135,7 @@ ZSWatch - Zephyr Smartwatch:
 * [aroum/zmk-enki42-dongle](https://github.com/aroum/zmk-enki42-dongle) ⭐ 180 | 🐛 0 | 📅 2026-08-27 - ZMK config for enki42 keyboard with dongle
 * [caksoylar/zmk-config](https://github.com/caksoylar/zmk-config) ⭐ 139 | 🐛 0 | 🌐 C | 📅 2026-08-17 - ZMK user config containing keymap for 26-36 key keyboards
 * [a741725193/zmk-new\_corne](https://github.com/a741725193/zmk-new_corne) ⭐ 135 | 🐛 2 | 📅 2026-08-01 - ZMK Firmware Configuration
-* [kumamuk-git/zmk-config-roBa](https://github.com/kumamuk-git/zmk-config-roBa) ⭐ 78 | 🐛 4 | 📅 2026-04-07 - zmk-config-roBa
+* [kumamuk-git/zmk-config-roBa](https://github.com/kumamuk-git/zmk-config-roBa) ⭐ 78 | 🐛 5 | 📅 2026-04-07 - zmk-config-roBa
 * [SethMilliken/zmk-config aka araxia](https://github.com/SethMilliken/zmk-config) ⭐ 63 | 🐛 0 | 📅 2026-08-18 - ZMK Firmware Configuration
 * [englmaxi/zmk-config](https://github.com/englmaxi/zmk-config) ⭐ 56 | 🐛 0 | 🌐 C | 📅 2026-05-11 - Personal zmk-config for my ergo keyboards
 * [badjeff/zmk-config](https://github.com/badjeff/zmk-config) ⭐ 24 | 🐛 0 | 🌐 C | 📅 2026-08-31 - Personal ZMK firmware configuration for various boards
@@ -164,11 +164,11 @@ ZSWatch - Zephyr Smartwatch:
 
 ### Useful Awesome List
 
-* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,059 | 🐛 311 | 📅 2026-08-22 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
-* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,755 | 🐛 27 | 📅 2026-08-27 - A curated list of Docker resources and related projects about the Docker ecosystem.
-* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,179 | 🐛 281 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
-* [dictcp/awesome-git](https://github.com/dictcp/awesome-git) ⭐ 2,938 | 🐛 69 | 📅 2026-07-07 - A curated list of amazingly awesome Git tools, resources and shiny things.
-* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) ⭐ 2,836 | 🐛 46 | 📅 2023-08-10 - A curated list of SSH apps, libraries and resources.
+* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,069 | 🐛 312 | 📅 2026-09-01 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,761 | 🐛 27 | 📅 2026-08-27 - A curated list of Docker resources and related projects about the Docker ecosystem.
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,182 | 🐛 282 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
+* [dictcp/awesome-git](https://github.com/dictcp/awesome-git) ⭐ 2,940 | 🐛 70 | 📅 2026-07-07 - A curated list of amazingly awesome Git tools, resources and shiny things.
+* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) ⭐ 2,838 | 🐛 46 | 📅 2023-08-10 - A curated list of SSH apps, libraries and resources.
 * [dreftymac/awesome-yaml](https://github.com/dreftymac/awesome-yaml) ⭐ 57 | 🐛 3 | 📅 2022-11-14 - A curated collection of YAML tools, templating libraries and related resources.
 
 ### Vendor Documentation
@@ -318,16 +318,16 @@ ZSWatch - Zephyr Smartwatch:
 * [rschenk/zmk-component-raytac-dongle](https://github.com/rschenk/zmk-component-raytac-dongle) ⭐ 35 | 🐛 1 | 🌐 CMake | 📅 2026-04-12 - ZMK module to support the Raytac MDBT50Q-RX USB key as a dongle
   * [Please read the section "Caveat: Buy One With A UF2 Bootloader Installed"](https://github.com/rschenk/zmk-component-raytac-dongle?tab=readme-ov-file#caveat-buy-one-with-auf2-bootloader-installed) ⭐ 35 | 🐛 1 | 🌐 CMake | 📅 2026-04-12
 * [victorlucachi/charybdis-zmk-module](https://github.com/victorlucachi/charybdis-zmk-module) ⭐ 32 | 🐛 1 | 📅 2025-12-03 - zmk module for bkb charybdis mini/nano with pmw3610 and xiao/nicenano dongle
-* [t-ogura/prospector-zmk-module](https://github.com/t-ogura/prospector-zmk-module) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2026-08-01 - Keyboard broadcasts status via BLE Advertisement (observer mode)
-  * [t-ogura/zmk-config-prospector](https://github.com/t-ogura/zmk-config-prospector) ⭐ 65 | 🐛 1 | 📅 2026-08-01 - Prospector only listens - does NOT connect to keyboard
+* [t-ogura/prospector-zmk-module](https://github.com/t-ogura/prospector-zmk-module) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2026-09-01 - Keyboard broadcasts status via BLE Advertisement (observer mode)
+  * [t-ogura/zmk-config-prospector](https://github.com/t-ogura/zmk-config-prospector) ⭐ 65 | 🐛 1 | 📅 2026-09-01 - Prospector only listens - does NOT connect to keyboard
 * [joaopedropio/snake-module](https://github.com/joaopedropio/snake-module.git) ⭐ 2 | 🐛 2 | 🌐 C | 📅 2026-03-11 - Snake Dongle Shell 🐍
 * [dhruvinsh/zmk-prospector](https://github.com/dhruvinsh/zmk-prospector) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2025-04-28 - Prospector but for ST7735S display
 
 ##### Dongles Design
 
-* [carrefinho/prospector](https://github.com/carrefinho/prospector) ⭐ 789 | 🐛 11 | 📅 2025-11-22 - Desktop ZMK Dongle with color 1.69-inch IPS LCD screen with curved cover glass screen
-* [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards/tree/main/stls/Dongle) ⭐ 491 | 🐛 0 | 🌐 Shell | 📅 2026-08-30 - Cyberdeck
-* [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards/tree/main/src/keyboards/bastardkb/dilemma/boards/shields/dilemma) ⭐ 491 | 🐛 0 | 🌐 Shell | 📅 2026-08-30 - Dilemma DIY with 128x32 OLED
+* [carrefinho/prospector](https://github.com/carrefinho/prospector) ⭐ 788 | 🐛 11 | 📅 2025-11-22 - Desktop ZMK Dongle with color 1.69-inch IPS LCD screen with curved cover glass screen
+* [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards/tree/main/stls/Dongle) ⭐ 490 | 🐛 0 | 🌐 Shell | 📅 2026-08-30 - Cyberdeck
+* [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards/tree/main/src/keyboards/bastardkb/dilemma/boards/shields/dilemma) ⭐ 490 | 🐛 0 | 🌐 Shell | 📅 2026-08-30 - Dilemma DIY with 128x32 OLED
 * [englmaxi/zmk-dongle-display 1](https://github.com/englmaxi/zmk-dongle-display/tree/main/cases) ⭐ 265 | 🐛 5 | 🌐 C | 📅 2026-02-21 - case1
 * [englmaxi/zmk-dongle-display 2](https://github.com/englmaxi/zmk-dongle-display/tree/main/cases) ⭐ 265 | 🐛 5 | 🌐 C | 📅 2026-02-21 - case2
 * [rain2813/zmk-cygnus-oled](https://github.com/rain2813/zmk-cygnus-oled) ⭐ 61 | 🐛 0 | 🌐 C | 📅 2024-07-22 - This is keymap configuration for redox zmk firmware, 1.3-inch I2C OLED display
@@ -369,20 +369,20 @@ ZSWatch - Zephyr Smartwatch:
 * [efogdev/zmk-keymap-shell](https://github.com/efogdev/zmk-keymap-shell) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2026-07-01 - Shell commands and behaviors (ToDo) for managing multiple keymap profiles on ZMK keyboards.
 * [ZMK Studio - Official GUI Support (Online via USB)](https://zmk.studio/) - ZMK Studio provides runtime update functionality to ZMK powered devices, allowing users to change their keymap layers without flashing new firmware to their keyboards.
 * [nickcoutsos/keymap-editor](https://nickcoutsos.github.io/keymap-editor/) - A web based graphical editor of ZMK keymaps.
-  * [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) ⭐ 2,065 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-27 -  source code on GitHub
-  * [nickcoutsos/keymap-editor/wiki](https://github.com/nickcoutsos/keymap-editor/wiki) ⭐ 2,065 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-27 - keymap-editor wiki!
+  * [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) ⭐ 2,066 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-27 -  source code on GitHub
+  * [nickcoutsos/keymap-editor/wiki](https://github.com/nickcoutsos/keymap-editor/wiki) ⭐ 2,066 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-27 - keymap-editor wiki!
 * [caksoylar/keymap-drawer](https://keymap-drawer.streamlit.app/) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing.
   * [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) ⭐ 1,320 | 🐛 27 | 🌐 Python | 📅 2026-08-12 - source code on GitHub
 * [ZMK Firmware official hardware-integration/physical-layouts](https://zmk.dev/docs/development/hardware-integration/physical-layouts) - Physical Layouts
   * [zmk-physical-layout-converter by caksoylar](https://zmk-physical-layout-converter.streamlit.app/) - Web app for converting between physical layout formats for ZMK Studio [^11].
     * [caksoylar/zmk-physical-layout-converter](https://github.com/caksoylar/zmk-physical-layout-converter) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-12-09 - source code on GitHub
   * [keymap-layout-tools by nickcoutsos](https://nickcoutsos.github.io/keymap-layout-tools/) - Helper code for dealing with rendering keyboard layouts. [^11].
-    * [nickcoutsos/keymap-layout-tools](https://github.com/nickcoutsos/keymap-layout-tools) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-14 - source code on GitHub
+    * [nickcoutsos/keymap-layout-tools](https://github.com/nickcoutsos/keymap-layout-tools) ⭐ 39 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-14 - source code on GitHub
 * [An experimental tool to create ZMK shields by Genteure](https://shield-wizard.genteure.workers.dev) - A web-based tool to create ZMK configurations for custom keyboards.
 
 ### Power Estimation
 
-* [kot149/zmk-battery-center](https://github.com/kot149/zmk-battery-center) ⭐ 181 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-31 - A system tray app to monitor the battery level of ZMK-based keyboards for MacOS/Windows
+* [kot149/zmk-battery-center](https://github.com/kot149/zmk-battery-center) ⭐ 181 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 - A system tray app to monitor the battery level of ZMK-based keyboards for MacOS/Windows
 * [Maksim-Isakau/zmk-split-battery](https://github.com/Maksim-Isakau/zmk-split-battery) ⭐ 105 | 🐛 3 | 🌐 C# | 📅 2025-08-05 ZMK Split Battery Status in system tray for Windows
 * [codyd51/Mighty-Mitts](https://github.com/codyd51/Mighty-Mitts) ⭐ 78 | 🐛 5 | 🌐 Objective-C | 📅 2024-06-14 - macOS menu bar applet for battery levels of ZMK split keyboards
 * [mh4x0f/zmkBATx](https://github.com/mh4x0f/zmkBATx) ⭐ 55 | 🐛 0 | 🌐 C++ | 📅 2025-01-03 - Opensource tool for peripheral battery monitoring zmk split keyboard over BLE for linux
@@ -399,7 +399,7 @@ ZSWatch - Zephyr Smartwatch:
 
 ### RAW HID Host
 
-* [zzeneg/qmk-hid-host](https://github.com/zzeneg/qmk-hid-host) ⭐ 76 | 🐛 2 | 🌐 Rust | 📅 2026-06-29 - ZMK and QMK HID Host. Host component for communicating with ZMK and QMK keyboards using Raw HID feature.
+* [zzeneg/qmk-hid-host](https://github.com/zzeneg/qmk-hid-host) ⭐ 77 | 🐛 2 | 🌐 Rust | 📅 2026-06-29 - ZMK and QMK HID Host. Host component for communicating with ZMK and QMK keyboards using Raw HID feature.
 * [badjeff/zmk-companion-macos](https://github.com/badjeff/zmk-companion-macos) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2024-12-31 - ZMK Companion. A main menu macOS application communicate to ZMK powered HID device.
 
 ### CLI and Utilities
@@ -407,7 +407,7 @@ ZSWatch - Zephyr Smartwatch:
 * [aroum/cn\_tester](https://github.com/aroum/cn_tester) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-07-19 - A tool for testing n!n pins and Chinese-manufactured clones.
 * [zmkfirmware/zmk-docker](https://github.com/zmkfirmware/zmk-docker) ⭐ 34 | 🐛 19 | 🌐 Dockerfile | 📅 2026-06-11 - Lightweight Docker images for ZMK
 * [zmkfirmware/zmk-cli](https://github.com/zmkfirmware/zmk-cli) ⭐ 19 | 🐛 14 | 🌐 Python | 📅 2026-08-31 - Command line tool for ZMK Firmware
-* [urob/zmk-actions](https://github.com/urob/zmk-actions) ⭐ 4 | 🐛 3 | 🌐 Shell | 📅 2026-08-01 - Github workflows for maintaining ZMK modules
+* [urob/zmk-actions](https://github.com/urob/zmk-actions) ⭐ 4 | 🐛 3 | 🌐 Shell | 📅 2026-09-01 - Github workflows for maintaining ZMK modules
 
 ## Hardware Addons must-have
 
@@ -512,7 +512,7 @@ Wired - Seeed XIAO Interconnect (RP2040 and others)
 
 ### Hardware Tutorials
 
-* [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) ⭐ 5,863 | 🐛 36 | 📅 2024-07-06 - A collection of ergonomic split keyboards
+* [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) ⭐ 5,862 | 🐛 36 | 📅 2024-07-06 - A collection of ergonomic split keyboards
 * [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) ⭐ 493 | 🐛 6 | 📅 2024-07-06 - A short hardware-designguide for ZMK keyboards.
 * [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) ⭐ 493 | 🐛 6 | 📅 2024-07-06 - A community-written guide for designing PCBs intended to be used with ZMK.
 * [GOLEM keyboard project](https://golem.hu/board/) - Split keyboard database
@@ -536,7 +536,7 @@ Wired - Seeed XIAO Interconnect (RP2040 and others)
 
 * [kbd.news](https://kbd.news/) - KBD.news is a blog and newsletter on DIY mechanical keyboards. A hand-picked selection of posts from a keyboard enthusiast's perspective
 * [ErgoMechKeyboards/reddit.com](https://www.reddit.com/r/ErgoMechKeyboards/) - A community focused around Ergonomic Mechanical Keyboards and strange input devices. Embrace the jank. Created Sep 2, 2019
-* [crkbd/reddit.com](https://www.reddit.com/r/crkbd/) - crkbd, a.k.a. Corne Keyboard <https://github.com/foostan/crkbd> ⭐ 7,628 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10 <https://discord.com/invite/aWCZWnS> Created Dec 16, 2019
+* [crkbd/reddit.com](https://www.reddit.com/r/crkbd/) - crkbd, a.k.a. Corne Keyboard <https://github.com/foostan/crkbd> ⭐ 7,633 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10 <https://discord.com/invite/aWCZWnS> Created Dec 16, 2019
 
 ### Keyboard News Videos
 
@@ -555,8 +555,8 @@ Wired - Seeed XIAO Interconnect (RP2040 and others)
 
 ## Projects using ZMK closed-source or not upstreamed
 
-* [nrfconnect/sdk-nrf/../pmw3360](https://github.com/nrfconnect/sdk-nrf/tree/main/drivers/sensor/pmw3360) ⭐ 1,418 | 🐛 259 | 🌐 C | 📅 2026-08-31 - PMW3360 mouse optical sensor
-  * [LicenseID:  LicenseRef-Nordic-5-Clause](https://github.com/nrfconnect/sdk-nrf/blob/main/LICENSE) ⭐ 1,418 | 🐛 259 | 🌐 C | 📅 2026-08-31 - Copyright (c) 2018, Nordic Semiconductor ASA
+* [nrfconnect/sdk-nrf/../pmw3360](https://github.com/nrfconnect/sdk-nrf/tree/main/drivers/sensor/pmw3360) ⭐ 1,418 | 🐛 252 | 🌐 C | 📅 2026-09-01 - PMW3360 mouse optical sensor
+  * [LicenseID:  LicenseRef-Nordic-5-Clause](https://github.com/nrfconnect/sdk-nrf/blob/main/LICENSE) ⭐ 1,418 | 🐛 252 | 🌐 C | 📅 2026-09-01 - Copyright (c) 2018, Nordic Semiconductor ASA
 * [taichan1113/AdeptBLE](https://github.com/taichan1113/AdeptBLE) ⭐ 159 | 🐛 4 | 📅 2025-04-02 - This is alpha version of Ploopy Adept BLE modification.
   * [Post on reddit](https://www.reddit.com/r/Trackballs/comments/rtmeeq/a_portable_trackball_i_wanted_zmk_powered_some/)
   * [Video and photos](https://imgur.com/gallery/zmk-trackball-prototype-RhXke0e)
@@ -588,11 +588,11 @@ This list is licensed under the [Creative Commons Zero v1.0 Universal](https://c
 
 [^1]: ZMK Firmware official website: <https://zmk.dev>
 
-[^2]: ZMK Firmware official code repository: <https://github.com/zmkfirmware/zmk> ⭐ 4,246 | 🐛 419 | 🌐 C | 📅 2026-08-31
+[^2]: ZMK Firmware official code repository: <https://github.com/zmkfirmware/zmk> ⭐ 4,245 | 🐛 419 | 🌐 C | 📅 2026-08-31
 
 [^3]: Zephyr Project official website: <https://www.zephyrproject.org>
 
-[^4]: Zephyr Project Code Repository: <https://github.com/zephyrproject-rtos/zephyr> ⭐ 16,360 | 🐛 3,853 | 🌐 C | 📅 2026-08-31
+[^4]: Zephyr Project Code Repository: <https://github.com/zephyrproject-rtos/zephyr> ⭐ 16,373 | 🐛 3,889 | 🌐 C | 📅 2026-09-01
 
 [^5]: Online Power Profiler for Bluetooth LE: <https://devzone.nordicsemi.com/power/w/opp>
 
@@ -608,4 +608,4 @@ This list is licensed under the [Creative Commons Zero v1.0 Universal](https://c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
