@@ -15,11 +15,11 @@
             "id": 270692521,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:07:57Z",
+            "last_commit": "2026-09-07T05:03:06Z",
             "open_issues": 422,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4248,
+            "stars": 4251,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T01:45:58Z",
-                "open_issues": 3873,
+                "last_commit": "2026-09-07T16:08:43Z",
+                "open_issues": 3894,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16412,
+                "stars": 16433,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,8 +81,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:06:34Z",
-                "open_issues": 258,
+                "last_commit": "2026-09-07T16:20:04Z",
+                "open_issues": 259,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1422,
@@ -210,7 +210,7 @@
             "open_issues": 3,
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "corneish-zen",
               "keyboard-layout",
@@ -262,10 +262,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-06-27T07:10:12Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "miryoku",
               "zmk",
@@ -807,7 +807,7 @@
                 "open_issues": 310,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73155,
+                "stars": 73172,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 30,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36790,
+                "stars": 36798,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 291,
+                "open_issues": 292,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28190,
+                "stars": 28196,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -937,7 +937,7 @@
                 "open_issues": 46,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2839,
+                "stars": 2838,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1293,7 +1293,7 @@
                 "open_issues": 2,
                 "owner": "badjeff",
                 "repo": "zmk-hid-io",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -1413,27 +1413,6 @@
             },
             {
               "node_type": "item",
-              "title": "badjeff/zmk-split-peripheral-output-relay",
-              "description": "This is a ZMK Split Transport module adding support for Enhanced ShockBurst (ESB) protocol on Nordic nRF5 Series device.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 801548130,
-                "language": "C",
-                "license": null,
-                "last_commit": "2024-08-14T13:31:38Z",
-                "open_issues": 0,
-                "owner": "badjeff",
-                "repo": "zmk-split-peripheral-output-relay",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:45.702Z"
-            },
-            {
-              "node_type": "item",
               "title": "badjeff/zmk-input-processor-xyz",
               "description": "This module is used to quantize X and Y value set to fit inside single payload of pointing device on split peripheral, to reduce the bluetooth connection loading between the peripherals and the central.",
               "children": [],
@@ -1448,6 +1427,27 @@
                 "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-input-processor-xyz",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
+            },
+            {
+              "node_type": "item",
+              "title": "badjeff/zmk-split-peripheral-output-relay",
+              "description": "This is a ZMK Split Transport module adding support for Enhanced ShockBurst (ESB) protocol on Nordic nRF5 Series device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 801548130,
+                "language": "C",
+                "license": null,
+                "last_commit": "2024-08-14T13:31:38Z",
+                "open_issues": 0,
+                "owner": "badjeff",
+                "repo": "zmk-split-peripheral-output-relay",
                 "stars": 5,
                 "topics": []
               },
@@ -1738,7 +1738,7 @@
                         "open_issues": 1,
                         "owner": "ZitaoTech",
                         "repo": "9981_BLE_USB_Keyboard_Pro",
-                        "stars": 28,
+                        "stars": 29,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
@@ -1825,7 +1825,7 @@
                     "open_issues": 3,
                     "owner": "inorichi",
                     "repo": "zmk-pmw3610-driver",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
@@ -2752,7 +2752,7 @@
                 "open_issues": 0,
                 "owner": "zzeneg",
                 "repo": "zmk-nice-view-hid",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "zmk-module"
                 ]
@@ -3823,7 +3823,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-06T03:54:37Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "kot149",
                 "repo": "zmk-battery-center",
                 "stars": 181,
@@ -4178,7 +4178,7 @@
             "open_issues": 1,
             "owner": "aroum",
             "repo": "ufa",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4459,7 +4459,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5864,
+                "stars": 5865,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -4540,8 +4540,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:06:34Z",
-                "open_issues": 258,
+                "last_commit": "2026-09-07T16:20:04Z",
+                "open_issues": 259,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1422,
@@ -4557,8 +4557,8 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T15:06:34Z",
-            "open_issues": 258,
+            "last_commit": "2026-09-07T16:20:04Z",
+            "open_issues": 259,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1422,
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:29:07.225Z",
+    "last_updated": "2026-09-07T20:46:39.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
