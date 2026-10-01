@@ -19,7 +19,7 @@
             "open_issues": 436,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4280,
+            "stars": 4282,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T18:26:50Z",
-                "open_issues": 3917,
+                "last_commit": "2026-10-01T21:35:12Z",
+                "open_issues": 4037,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16658,
+                "stars": 16665,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,8 +81,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T18:11:09Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-01T15:57:50Z",
+                "open_issues": 241,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1430,
@@ -210,7 +210,7 @@
             "open_issues": 4,
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1384,
+            "stars": 1385,
             "topics": [
               "corneish-zen",
               "keyboard-layout",
@@ -265,7 +265,7 @@
             "open_issues": 15,
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "miryoku",
               "zmk",
@@ -290,7 +290,7 @@
             "open_issues": 2,
             "owner": "mctechnology17",
             "repo": "zmk-config",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "corne",
               "corne-keyboard",
@@ -401,7 +401,7 @@
             "open_issues": 4,
             "owner": "a741725193",
             "repo": "zmk-new_corne",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -540,7 +540,7 @@
             "open_issues": 0,
             "owner": "tokyo2006",
             "repo": "zmk-config-corne",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -700,7 +700,7 @@
             "open_issues": 0,
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1862,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -804,10 +804,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-29T02:18:38Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73547,
+                "stars": 73561,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -838,10 +838,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T15:35:13Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36936,
+                "stars": 36940,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 321,
+                "open_issues": 327,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28270,
+                "stars": 28274,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,7 +908,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "dictcp",
                 "repo": "awesome-git",
                 "stars": 2950,
@@ -937,7 +937,7 @@
                 "open_issues": 51,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1013,7 +1013,7 @@
                 "open_issues": 4,
                 "owner": "urob",
                 "repo": "zmk-helpers",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "zmk",
                   "zmk-config",
@@ -2244,7 +2244,7 @@
                     "open_issues": 1,
                     "owner": "caksoylar",
                     "repo": "zmk-rgbled-widget",
-                    "stars": 233,
+                    "stars": 235,
                     "topics": [
                       "zmk-config",
                       "zmk-module"
@@ -2562,7 +2562,7 @@
                 "open_issues": 11,
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "zmk",
                   "zmk-config",
@@ -2587,7 +2587,7 @@
                 "open_issues": 3,
                 "owner": "M165437",
                 "repo": "nice-view-gem",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "zmk",
                   "zmk-module"
@@ -2690,6 +2690,27 @@
             },
             {
               "node_type": "item",
+              "title": "dsifry/nice-view-mod",
+              "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
+                "homepage": null,
+                "id": 941406752,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2025-03-31T16:03:22Z",
+                "open_issues": 0,
+                "owner": "dsifry",
+                "repo": "nice-view-mod",
+                "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
+            },
+            {
+              "node_type": "item",
               "title": "mctechnology17/zmk-dongle-display-view",
               "description": "horizontal widgets for keyboards with dongles, splits and non-splits using the nice!view (bongocat, wpm, caps, batt, etc.)",
               "children": [],
@@ -2712,27 +2733,6 @@
                   "zmk-module",
                   "zmk-shield"
                 ]
-              },
-              "first_seen": "2026-08-29T01:08:45.702Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dsifry/nice-view-mod",
-              "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
-                "homepage": null,
-                "id": 941406752,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2025-03-31T16:03:22Z",
-                "open_issues": 0,
-                "owner": "dsifry",
-                "repo": "nice-view-mod",
-                "stars": 38,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -3011,7 +3011,7 @@
                     "open_issues": 5,
                     "owner": "englmaxi",
                     "repo": "zmk-dongle-display",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "zmk",
                       "zmk-config",
@@ -3037,7 +3037,7 @@
                     "open_issues": 7,
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
-                    "stars": 261,
+                    "stars": 262,
                     "topics": [
                       "zmk",
                       "zmk-module"
@@ -3276,7 +3276,7 @@
                         "open_issues": 11,
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 802,
+                        "stars": 804,
                         "topics": [
                           "zmk"
                         ]
@@ -3295,11 +3295,11 @@
                         "id": 446867932,
                         "language": "C",
                         "license": "MIT",
-                        "last_commit": "2026-09-29T20:18:12Z",
+                        "last_commit": "2026-10-01T14:32:11Z",
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 491,
+                        "stars": 492,
                         "topics": [
                           "zmk"
                         ]
@@ -3318,11 +3318,11 @@
                         "id": 446867932,
                         "language": "C",
                         "license": "MIT",
-                        "last_commit": "2026-09-29T20:18:12Z",
+                        "last_commit": "2026-10-01T14:32:11Z",
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 491,
+                        "stars": 492,
                         "topics": [
                           "zmk"
                         ]
@@ -3345,7 +3345,7 @@
                         "open_issues": 5,
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 265,
+                        "stars": 266,
                         "topics": [
                           "zmk",
                           "zmk-config",
@@ -3371,7 +3371,7 @@
                         "open_issues": 5,
                         "owner": "englmaxi",
                         "repo": "zmk-dongle-display",
-                        "stars": 265,
+                        "stars": 266,
                         "topics": [
                           "zmk",
                           "zmk-config",
@@ -3568,7 +3568,7 @@
                 "open_issues": 60,
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
-                "stars": 318,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -3663,7 +3663,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2079,
+                    "stars": 2080,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3690,7 +3690,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2079,
+                    "stars": 2080,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3724,7 +3724,7 @@
                     "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1335,
+                    "stars": 1336,
                     "topics": [
                       "keyboard",
                       "keymap-drawer",
@@ -3764,7 +3764,7 @@
                         "open_issues": 0,
                         "owner": "caksoylar",
                         "repo": "zmk-physical-layout-converter",
-                        "stars": 12,
+                        "stars": 13,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
@@ -3851,7 +3851,7 @@
                 "open_issues": 3,
                 "owner": "Maksim-Isakau",
                 "repo": "zmk-split-battery",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "battery-level",
                   "bluetooth-low-energy",
@@ -4383,7 +4383,7 @@
                 "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1862,
+                "stars": 1863,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4404,7 +4404,7 @@
                 "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1862,
+                "stars": 1863,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4459,7 +4459,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5879,
+                "stars": 5880,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -4540,8 +4540,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T18:11:09Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-01T15:57:50Z",
+                "open_issues": 241,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1430,
@@ -4557,8 +4557,8 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T18:11:09Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-01T15:57:50Z",
+            "open_issues": 241,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1430,
@@ -4744,7 +4744,7 @@
             "open_issues": 0,
             "owner": "whoop-t",
             "repo": "nice-shield-collection",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "nicenano",
               "niceview",
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:31:43.644Z",
+    "last_updated": "2026-10-01T21:59:35.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
