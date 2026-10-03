@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:03:56Z",
-                "open_issues": 4086,
+                "last_commit": "2026-10-03T03:11:34Z",
+                "open_issues": 4035,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16675,
+                "stars": 16676,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -82,7 +82,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:28:27Z",
-                "open_issues": 230,
+                "open_issues": 226,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1430,
@@ -807,7 +807,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73572,
+                "stars": 73584,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 47,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36945,
+                "stars": 36949,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -881,7 +881,7 @@
                 "open_issues": 328,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28280,
+                "stars": 28282,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,7 +908,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "dictcp",
                 "repo": "awesome-git",
                 "stars": 2949,
@@ -1049,7 +1049,7 @@
             {
               "node_type": "item",
               "title": "badjeff/zmk-feature-split-esb",
-              "description": null,
+              "description": "badjeff/zmk-feature-split-esb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1746,7 +1746,7 @@
                     {
                       "node_type": "item",
                       "title": "zmk fork",
-                      "description": null,
+                      "description": "ZitaoTech/zmk",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1931,7 +1931,7 @@
                     {
                       "node_type": "item",
                       "title": "Pimoroni PIM447 trackball driver use docs",
-                      "description": null,
+                      "description": "cdc-mkb/zmk",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3103,7 +3103,7 @@
                     {
                       "node_type": "item",
                       "title": "Please read the section \"Caveat: Buy One With A UF2 Bootloader Installed\"",
-                      "description": null,
+                      "description": "rschenk/zmk-component-raytac-dongle",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4191,7 +4191,7 @@
             {
               "node_type": "item",
               "title": "Pull requests",
-              "description": null,
+              "description": "ploopyco/nano-trackball",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4541,7 +4541,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:28:27Z",
-                "open_issues": 230,
+                "open_issues": 226,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1430,
@@ -4558,7 +4558,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T17:28:27Z",
-            "open_issues": 230,
+            "open_issues": 226,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1430,
@@ -4616,7 +4616,7 @@
             {
               "node_type": "item",
               "title": "Keychron source code on GitHub",
-              "description": null,
+              "description": "Keychron/zmk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:19.617Z",
+    "last_updated": "2026-10-03T05:16:30.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
