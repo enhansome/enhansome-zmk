@@ -19,7 +19,7 @@
             "open_issues": 436,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4284,
+            "stars": 4285,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T18:55:14Z",
-                "open_issues": 4019,
+                "last_commit": "2026-10-04T13:48:57Z",
+                "open_issues": 4059,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16684,
+                "stars": 16686,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -82,7 +82,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:28:27Z",
-                "open_issues": 228,
+                "open_issues": 222,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1431,
@@ -807,7 +807,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73594,
+                "stars": 73616,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 47,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36958,
+                "stars": 36961,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 327,
+                "open_issues": 328,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28283,
+                "stars": 28286,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -911,7 +911,7 @@
                 "open_issues": 91,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2949,
+                "stars": 2948,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1154,7 +1154,7 @@
                 "open_issues": 1,
                 "owner": "englmaxi",
                 "repo": "zmk-hid-trackball-interface",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "zmk-module"
                 ]
@@ -2032,7 +2032,7 @@
                     "open_issues": 11,
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 240,
+                    "stars": 241,
                     "topics": [
                       "zmk",
                       "zmk-module"
@@ -3037,7 +3037,7 @@
                     "open_issues": 7,
                     "owner": "janpfischer",
                     "repo": "zmk-dongle-screen",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "zmk",
                       "zmk-module"
@@ -3299,7 +3299,7 @@
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 493,
+                        "stars": 494,
                         "topics": [
                           "zmk"
                         ]
@@ -3322,7 +3322,7 @@
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
-                        "stars": 493,
+                        "stars": 494,
                         "topics": [
                           "zmk"
                         ]
@@ -3663,7 +3663,7 @@
                     "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2081,
+                    "stars": 2082,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3690,7 +3690,7 @@
                     "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2081,
+                    "stars": 2082,
                     "topics": [
                       "configurator",
                       "editor",
@@ -4004,7 +4004,7 @@
                 "open_issues": 0,
                 "owner": "aroum",
                 "repo": "cn_tester",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4425,7 +4425,7 @@
                 "open_issues": 5,
                 "owner": "zhiayang",
                 "repo": "mikoto",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "bluetooth",
                   "electronics",
@@ -4541,7 +4541,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:28:27Z",
-                "open_issues": 228,
+                "open_issues": 222,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1431,
@@ -4558,7 +4558,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T17:28:27Z",
-            "open_issues": 228,
+            "open_issues": 222,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1431,
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:11:01.046Z",
+    "last_updated": "2026-10-04T20:24:30.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
