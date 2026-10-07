@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T20:40:52Z",
-                "open_issues": 4156,
+                "last_commit": "2026-10-07T09:51:33Z",
+                "open_issues": 4194,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16703,
+                "stars": 16706,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,11 +81,11 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T16:31:01Z",
-                "open_issues": 229,
+                "last_commit": "2026-10-07T14:16:51Z",
+                "open_issues": 224,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -803,11 +803,11 @@
                 "id": 21935031,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-29T02:18:38Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-07T07:08:44Z",
+                "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73654,
+                "stars": 73670,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 48,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36975,
+                "stars": 36979,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28287,
+                "stars": 28291,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,10 +908,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2947,
+                "stars": 2948,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -937,7 +937,7 @@
                 "open_issues": 52,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2851,
+                "stars": 2852,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3276,7 +3276,7 @@
                         "open_issues": 11,
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 804,
+                        "stars": 805,
                         "topics": [
                           "zmk"
                         ]
@@ -3724,7 +3724,7 @@
                     "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1337,
+                    "stars": 1338,
                     "topics": [
                       "keyboard",
                       "keymap-drawer",
@@ -3826,7 +3826,7 @@
                 "open_issues": 6,
                 "owner": "kot149",
                 "repo": "zmk-battery-center",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "bluetooth-low-energy",
                   "tauri-app",
@@ -4459,7 +4459,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5883,
+                "stars": 5884,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -4540,11 +4540,11 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T16:31:01Z",
-                "open_issues": 229,
+                "last_commit": "2026-10-07T14:16:51Z",
+                "open_issues": 224,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4557,11 +4557,11 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T16:31:01Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-07T14:16:51Z",
+            "open_issues": 224,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1431,
+            "stars": 1432,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:52:58.877Z",
+    "last_updated": "2026-10-07T22:15:34.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
@@ -4832,7 +4832,7 @@
       "open_issues": 4,
       "owner": "mctechnology17",
       "repo": "awesome-zmk",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "awesome-list",
         "awesome-lists",
