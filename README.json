@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T18:07:03Z",
-                "open_issues": 4232,
+                "last_commit": "2026-10-11T18:45:15Z",
+                "open_issues": 4230,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16743,
+                "stars": 16754,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -82,10 +82,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:15:01Z",
-                "open_issues": 230,
+                "open_issues": 229,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -262,7 +262,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-06-27T07:10:12Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "manna-harbour",
             "repo": "miryoku_zmk",
             "stars": 653,
@@ -290,7 +290,7 @@
             "open_issues": 2,
             "owner": "mctechnology17",
             "repo": "zmk-config",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "corne",
               "corne-keyboard",
@@ -700,7 +700,7 @@
             "open_issues": 0,
             "owner": "joric",
             "repo": "nrfmicro",
-            "stars": 1864,
+            "stars": 1865,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -803,11 +803,11 @@
                 "id": 21935031,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-07T07:08:44Z",
-                "open_issues": 313,
+                "last_commit": "2026-10-11T00:10:01Z",
+                "open_issues": 312,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73724,
+                "stars": 73742,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 50,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37007,
+                "stars": 37012,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 327,
+                "open_issues": 328,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28302,
+                "stars": 28308,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -911,7 +911,7 @@
                 "open_issues": 99,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2950,
+                "stars": 2952,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2032,7 +2032,7 @@
                     "open_issues": 11,
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": [
                       "zmk",
                       "zmk-module"
@@ -3061,7 +3061,7 @@
                     "open_issues": 11,
                     "owner": "carrefinho",
                     "repo": "prospector-zmk-module",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": [
                       "zmk"
                     ]
@@ -4383,7 +4383,7 @@
                 "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1864,
+                "stars": 1865,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4404,7 +4404,7 @@
                 "open_issues": 0,
                 "owner": "joric",
                 "repo": "nrfmicro",
-                "stars": 1864,
+                "stars": 1865,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4541,10 +4541,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:15:01Z",
-                "open_issues": 230,
+                "open_issues": 229,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4558,10 +4558,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T15:15:01Z",
-            "open_issues": 230,
+            "open_issues": 229,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1434,
+            "stars": 1435,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:41:26.145Z",
+    "last_updated": "2026-10-11T21:03:32.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
@@ -4832,7 +4832,7 @@
       "open_issues": 4,
       "owner": "mctechnology17",
       "repo": "awesome-zmk",
-      "stars": 197,
+      "stars": 198,
       "topics": [
         "awesome-list",
         "awesome-lists",
