@@ -15,8 +15,8 @@
             "id": 270692521,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:31:32Z",
-            "open_issues": 439,
+            "last_commit": "2026-10-16T13:33:52Z",
+            "open_issues": 440,
             "owner": "zmkfirmware",
             "repo": "zmk",
             "stars": 4300,
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:57:36Z",
-                "open_issues": 4400,
+                "last_commit": "2026-10-16T12:53:32Z",
+                "open_issues": 4427,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16803,
+                "stars": 16808,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,8 +81,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T16:25:52Z",
-                "open_issues": 298,
+                "last_commit": "2026-10-16T14:07:06Z",
+                "open_issues": 306,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1436,
@@ -804,10 +804,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-11T00:10:01Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73822,
+                "stars": 73845,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -838,10 +838,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T20:59:56Z",
-                "open_issues": 56,
+                "open_issues": 58,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37042,
+                "stars": 37049,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 336,
+                "open_issues": 334,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28316,
+                "stars": 28319,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,10 +908,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2954,
+                "stars": 2956,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1759,7 +1759,7 @@
                         "open_issues": 0,
                         "owner": "ZitaoTech",
                         "repo": "zmk",
-                        "stars": 6,
+                        "stars": 7,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
@@ -1776,7 +1776,7 @@
                     "open_issues": 2,
                     "owner": "ZitaoTech",
                     "repo": "zmk-config-9981-pro",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
@@ -1804,7 +1804,7 @@
                     "open_issues": 5,
                     "owner": "badjeff",
                     "repo": "zmk-pmw3610-driver",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
@@ -2032,7 +2032,7 @@
                     "open_issues": 11,
                     "owner": "infused-kim",
                     "repo": "kb_zmk_ps2_mouse_trackpoint_driver",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": [
                       "zmk",
                       "zmk-module"
@@ -2562,7 +2562,7 @@
                 "open_issues": 11,
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "zmk",
                   "zmk-config",
@@ -2587,7 +2587,7 @@
                 "open_issues": 3,
                 "owner": "M165437",
                 "repo": "nice-view-gem",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "zmk",
                   "zmk-module"
@@ -4459,7 +4459,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5891,
+                "stars": 5890,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -4540,8 +4540,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T16:25:52Z",
-                "open_issues": 298,
+                "last_commit": "2026-10-16T14:07:06Z",
+                "open_issues": 306,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1436,
@@ -4557,8 +4557,8 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T16:25:52Z",
-            "open_issues": 298,
+            "last_commit": "2026-10-16T14:07:06Z",
+            "open_issues": 306,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1436,
@@ -4654,7 +4654,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-06-14T17:55:56Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "KinesisCorporation",
                 "repo": "Adv360-Pro-ZMK",
                 "stars": 608,
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:31:25.377Z",
+    "last_updated": "2026-10-16T20:03:43.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
