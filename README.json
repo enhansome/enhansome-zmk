@@ -15,11 +15,11 @@
             "id": 270692521,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:57:44Z",
-            "open_issues": 441,
+            "last_commit": "2026-10-18T13:58:03Z",
+            "open_issues": 443,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4300,
+            "stars": 4302,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T16:27:03Z",
-                "open_issues": 4447,
+                "last_commit": "2026-10-17T20:04:57Z",
+                "open_issues": 4486,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16815,
+                "stars": 16820,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -127,7 +127,7 @@
                 "open_issues": 0,
                 "owner": "jakkra",
                 "repo": "ZSWatch",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -721,7 +721,7 @@
             "open_issues": 11,
             "owner": "maksimdrachov",
             "repo": "zephyr-rtos-tutorial",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "embedded",
               "tutorial",
@@ -804,10 +804,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-11T00:10:01Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73865,
+                "stars": 73879,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -841,7 +841,7 @@
                 "open_issues": 58,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37059,
+                "stars": 37063,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -881,7 +881,7 @@
                 "open_issues": 334,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28323,
+                "stars": 28327,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,10 +908,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 107,
+                "open_issues": 109,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2956,
+                "stars": 2957,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1800,7 +1800,7 @@
                     "id": 789770394,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-14T19:09:53Z",
+                    "last_commit": "2026-10-18T13:46:49Z",
                     "open_issues": 5,
                     "owner": "badjeff",
                     "repo": "zmk-pmw3610-driver",
@@ -2562,7 +2562,7 @@
                 "open_issues": 11,
                 "owner": "mctechnology17",
                 "repo": "zmk-nice-oled",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "zmk",
                   "zmk-config",
@@ -3589,7 +3589,7 @@
                 "open_issues": 8,
                 "owner": "MrMarble",
                 "repo": "zmk-viewer",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "cli",
                   "generator",
@@ -3663,7 +3663,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2089,
+                    "stars": 2088,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3690,7 +3690,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2089,
+                    "stars": 2088,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3724,7 +3724,7 @@
                     "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1341,
+                    "stars": 1344,
                     "topics": [
                       "keyboard",
                       "keymap-drawer",
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:42:14.429Z",
+    "last_updated": "2026-10-18T19:39:06.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
@@ -4832,7 +4832,7 @@
       "open_issues": 4,
       "owner": "mctechnology17",
       "repo": "awesome-zmk",
-      "stars": 199,
+      "stars": 200,
       "topics": [
         "awesome-list",
         "awesome-lists",
