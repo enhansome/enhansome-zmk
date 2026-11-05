@@ -15,8 +15,8 @@
             "id": 270692521,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-04T19:24:10Z",
-            "open_issues": 451,
+            "last_commit": "2026-11-05T14:55:03Z",
+            "open_issues": 453,
             "owner": "zmkfirmware",
             "repo": "zmk",
             "stars": 4320,
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T22:31:27Z",
-                "open_issues": 4775,
+                "last_commit": "2026-11-05T22:19:40Z",
+                "open_issues": 4827,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16995,
+                "stars": 17009,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,8 +81,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T16:44:45Z",
-                "open_issues": 264,
+                "last_commit": "2026-11-05T15:50:28Z",
+                "open_issues": 276,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1447,
@@ -102,7 +102,7 @@
                 "id": 561235539,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-04T06:40:04Z",
+                "last_commit": "2026-11-05T12:48:32Z",
                 "open_issues": 2,
                 "owner": "NordicDeveloperAcademy",
                 "repo": "ncs-fund",
@@ -352,7 +352,7 @@
             "open_issues": 0,
             "owner": "aroum",
             "repo": "zmk-enki42-dongle",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "caksoylar",
             "repo": "zmk-config",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "corneish-zen",
               "keyboard",
@@ -519,7 +519,7 @@
             "open_issues": 0,
             "owner": "MickiusMousius",
             "repo": "RolioFirmware",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -804,10 +804,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-04T02:23:29Z",
-                "open_issues": 312,
+                "open_issues": 313,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 74234,
+                "stars": 74255,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -838,10 +838,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T19:38:56Z",
-                "open_issues": 70,
+                "open_issues": 74,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37175,
+                "stars": 37181,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 353,
+                "open_issues": 356,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28400,
+                "stars": 28405,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -908,10 +908,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-23T08:16:08Z",
-                "open_issues": 118,
+                "open_issues": 120,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2971,
+                "stars": 2970,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -937,7 +937,7 @@
                 "open_issues": 53,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1628,7 +1628,7 @@
                     "open_issues": 1,
                     "owner": "AYM1607",
                     "repo": "zmk-driver-azoteq-iqs5xx",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
@@ -1717,7 +1717,7 @@
                         "open_issues": 0,
                         "owner": "ZitaoTech",
                         "repo": "HackberryPi-4B",
-                        "stars": 69,
+                        "stars": 68,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
@@ -2761,6 +2761,27 @@
             },
             {
               "node_type": "item",
+              "title": "MickiusMousius/RolioFirmware (for Vista508)",
+              "description": "The Vista508 is a low-power, high refresh rate display meant to replace I2C OLEDs traditionally used.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Firmware for the Rolio split wireless keyboard",
+                "homepage": "https://keydio.io",
+                "id": 683279328,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-11-01T00:46:26Z",
+                "open_issues": 0,
+                "owner": "MickiusMousius",
+                "repo": "RolioFirmware",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
+            },
+            {
+              "node_type": "item",
               "title": "GPeye/mario-peripheral-animation",
               "description": "Urchin Peripheral Animation",
               "children": [],
@@ -2776,27 +2797,6 @@
                 "owner": "GPeye",
                 "repo": "mario-peripheral-animation",
                 "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:45.702Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MickiusMousius/RolioFirmware (for Vista508)",
-              "description": "The Vista508 is a low-power, high refresh rate display meant to replace I2C OLEDs traditionally used.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Firmware for the Rolio split wireless keyboard",
-                "homepage": "https://keydio.io",
-                "id": 683279328,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-11-01T00:46:26Z",
-                "open_issues": 0,
-                "owner": "MickiusMousius",
-                "repo": "RolioFirmware",
-                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -3663,7 +3663,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2097,
+                    "stars": 2098,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3690,7 +3690,7 @@
                     "open_issues": 67,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2097,
+                    "stars": 2098,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3724,7 +3724,7 @@
                     "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1351,
+                    "stars": 1352,
                     "topics": [
                       "keyboard",
                       "keymap-drawer",
@@ -3826,7 +3826,7 @@
                 "open_issues": 3,
                 "owner": "kot149",
                 "repo": "zmk-battery-center",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "bluetooth-low-energy",
                   "tauri-app",
@@ -4540,8 +4540,8 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T16:44:45Z",
-                "open_issues": 264,
+                "last_commit": "2026-11-05T15:50:28Z",
+                "open_issues": 276,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1447,
@@ -4557,8 +4557,8 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T16:44:45Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-05T15:50:28Z",
+            "open_issues": 276,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1447,
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:51:41.336Z",
+    "last_updated": "2026-11-05T22:49:56.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
