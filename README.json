@@ -16,10 +16,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-05T14:55:03Z",
-            "open_issues": 453,
+            "open_issues": 455,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4326,
+            "stars": 4327,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -47,11 +47,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T16:19:29Z",
-                "open_issues": 4968,
+                "last_commit": "2026-11-11T21:32:02Z",
+                "open_issues": 4927,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 17051,
+                "stars": 17061,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -81,11 +81,11 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T15:22:16Z",
-                "open_issues": 275,
+                "last_commit": "2026-11-11T18:19:41Z",
+                "open_issues": 284,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -210,7 +210,7 @@
             "open_issues": 2,
             "owner": "urob",
             "repo": "zmk-config",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "corneish-zen",
               "keyboard-layout",
@@ -233,7 +233,7 @@
             "id": 693406138,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-04T02:32:31Z",
+            "last_commit": "2026-11-11T13:20:04Z",
             "open_issues": 19,
             "owner": "sunaku",
             "repo": "glove80-keymaps",
@@ -803,11 +803,11 @@
                 "id": 21935031,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-06T04:16:48Z",
-                "open_issues": 288,
+                "last_commit": "2026-11-11T06:27:28Z",
+                "open_issues": 287,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 74351,
+                "stars": 74364,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -837,11 +837,11 @@
                 "id": 24297122,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T19:38:56Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-11T15:33:35Z",
+                "open_issues": 80,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37210,
+                "stars": 37220,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 360,
+                "open_issues": 358,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28420,
+                "stars": 28426,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -911,7 +911,7 @@
                 "open_issues": 123,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2970,
+                "stars": 2971,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2084,7 +2084,7 @@
                     "open_issues": 0,
                     "owner": "badjeff",
                     "repo": "zmk-analog-input-driver",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:45.702Z"
@@ -2244,7 +2244,7 @@
                     "open_issues": 1,
                     "owner": "caksoylar",
                     "repo": "zmk-rgbled-widget",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": [
                       "zmk-config",
                       "zmk-module"
@@ -3295,7 +3295,7 @@
                         "id": 446867932,
                         "language": "C",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T21:29:35Z",
+                        "last_commit": "2026-11-11T20:32:16Z",
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
@@ -3318,7 +3318,7 @@
                         "id": 446867932,
                         "language": "C",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T21:29:35Z",
+                        "last_commit": "2026-11-11T20:32:16Z",
                         "open_issues": 0,
                         "owner": "rafaelromao",
                         "repo": "keyboards",
@@ -3440,7 +3440,7 @@
                         "open_issues": 1,
                         "owner": "joaopedropio",
                         "repo": "snake-dongle",
-                        "stars": 50,
+                        "stars": 51,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:08:45.702Z"
@@ -3568,7 +3568,7 @@
                 "open_issues": 63,
                 "owner": "zmkfirmware",
                 "repo": "zmk-studio",
-                "stars": 326,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -3660,7 +3660,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-29T02:15:15Z",
-                    "open_issues": 67,
+                    "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2101,
@@ -3687,7 +3687,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-29T02:15:15Z",
-                    "open_issues": 67,
+                    "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
                     "stars": 2101,
@@ -4178,7 +4178,7 @@
             "open_issues": 1,
             "owner": "aroum",
             "repo": "ufa",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4459,7 +4459,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5900,
+                "stars": 5901,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -4540,11 +4540,11 @@
                 "id": 121516035,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T15:22:16Z",
-                "open_issues": 275,
+                "last_commit": "2026-11-11T18:19:41Z",
+                "open_issues": 284,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4557,11 +4557,11 @@
             "id": 121516035,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:22:16Z",
-            "open_issues": 275,
+            "last_commit": "2026-11-11T18:19:41Z",
+            "open_issues": 284,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
-            "stars": 1450,
+            "stars": 1451,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:45.702Z"
@@ -4820,7 +4820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:30:31.716Z",
+    "last_updated": "2026-11-11T23:42:03.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
