@@ -48,10 +48,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T19:47:33Z",
-                "open_issues": 5001,
+                "open_issues": 5017,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 17149,
+                "stars": 17153,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -82,7 +82,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T17:12:08Z",
-                "open_issues": 274,
+                "open_issues": 273,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1457,
@@ -290,7 +290,7 @@
             "open_issues": 2,
             "owner": "mctechnology17",
             "repo": "zmk-config",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "corne",
               "corne-keyboard",
@@ -807,7 +807,7 @@
                 "open_issues": 288,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 74529,
+                "stars": 74552,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -838,10 +838,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T15:33:44Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 37273,
+                "stars": 37279,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -878,10 +878,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 369,
+                "open_issues": 371,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28454,
+                "stars": 28453,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -937,7 +937,7 @@
                 "open_issues": 54,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2876,
+                "stars": 2877,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1062,7 +1062,7 @@
                 "open_issues": 0,
                 "owner": "badjeff",
                 "repo": "zmk-feature-split-esb",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "enhanced-shockburst",
                   "esb",
@@ -2167,7 +2167,7 @@
                     "open_issues": 0,
                     "owner": "mctechnology17",
                     "repo": "zmk-oled-adapter",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "zmk-config",
                       "zmk-dongle",
@@ -2696,6 +2696,33 @@
             },
             {
               "node_type": "item",
+              "title": "mctechnology17/zmk-dongle-display-view",
+              "description": "horizontal widgets for keyboards with dongles, splits and non-splits using the nice!view (bongocat, wpm, caps, batt, etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "horizontal widgets for keyboards with dongles, splits and non-splits  using the nice!view (bongocat, wpm, caps, batt, etc.)",
+                "homepage": "https://github.com/mctechnology17/zmk-config",
+                "id": 847299809,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-11-19T11:20:59Z",
+                "open_issues": 0,
+                "owner": "mctechnology17",
+                "repo": "zmk-dongle-display-view",
+                "stars": 39,
+                "topics": [
+                  "zmk-config",
+                  "zmk-dongle",
+                  "zmk-firmware",
+                  "zmk-module",
+                  "zmk-shield"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:45.702Z"
+            },
+            {
+              "node_type": "item",
               "title": "dsifry/nice-view-mod",
               "description": "A copy of the nice!view shield from the official ZMK repo as a ZMK module for the purposes of easily customizing",
               "children": [],
@@ -2712,33 +2739,6 @@
                 "repo": "nice-view-mod",
                 "stars": 39,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:45.702Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mctechnology17/zmk-dongle-display-view",
-              "description": "horizontal widgets for keyboards with dongles, splits and non-splits using the nice!view (bongocat, wpm, caps, batt, etc.)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "horizontal widgets for keyboards with dongles, splits and non-splits  using the nice!view (bongocat, wpm, caps, batt, etc.)",
-                "homepage": "https://github.com/mctechnology17/zmk-config",
-                "id": 847299809,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-11-19T11:20:59Z",
-                "open_issues": 0,
-                "owner": "mctechnology17",
-                "repo": "zmk-dongle-display-view",
-                "stars": 38,
-                "topics": [
-                  "zmk-config",
-                  "zmk-dongle",
-                  "zmk-firmware",
-                  "zmk-module",
-                  "zmk-shield"
-                ]
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
             },
@@ -2954,6 +2954,27 @@
             },
             {
               "node_type": "item",
+              "title": "mctechnology17/zmk-peripheral-status-sync",
+              "description": "shows the state of the central half (WPM, modifiers, BLE profile, layer, battery, HID indicators) on the peripheral half of a split keyboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ZMK module: state of the central half (WPM, modifiers, BLE profile, layer, battery, HID indicators) on the peripheral half of a split keyboard",
+                "homepage": null,
+                "id": 1463873572,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-11-19T11:01:25Z",
+                "open_issues": 0,
+                "owner": "mctechnology17",
+                "repo": "zmk-peripheral-status-sync",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-19T23:47:06.177Z"
+            },
+            {
+              "node_type": "item",
               "title": "Jestar342/nice-view-spacemarine",
               "description": "This is a base repo to help anyone get started creating their own images/animations for their nice!view.",
               "children": [],
@@ -2972,27 +2993,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:45.702Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mctechnology17/zmk-peripheral-status-sync",
-              "description": "shows the state of the central half (WPM, modifiers, BLE profile, layer, battery, HID indicators) on the peripheral half of a split keyboard",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ZMK module: state of the central half (WPM, modifiers, BLE profile, layer, battery, HID indicators) on the peripheral half of a split keyboard",
-                "homepage": null,
-                "id": 1463873572,
-                "language": "C",
-                "license": null,
-                "last_commit": "2026-11-19T11:01:25Z",
-                "open_issues": 0,
-                "owner": "mctechnology17",
-                "repo": "zmk-peripheral-status-sync",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-11-19T23:47:06.177Z"
             },
             {
               "node_type": "item",
@@ -3111,7 +3111,7 @@
                     "open_issues": 0,
                     "owner": "mctechnology17",
                     "repo": "zmk-dongle-display-view",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "zmk-config",
                       "zmk-dongle",
@@ -3303,7 +3303,7 @@
                         "open_issues": 11,
                         "owner": "carrefinho",
                         "repo": "prospector",
-                        "stars": 818,
+                        "stars": 819,
                         "topics": [
                           "zmk"
                         ]
@@ -3690,7 +3690,7 @@
                     "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2106,
+                    "stars": 2107,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3717,7 +3717,7 @@
                     "open_issues": 68,
                     "owner": "nickcoutsos",
                     "repo": "keymap-editor",
-                    "stars": 2106,
+                    "stars": 2107,
                     "topics": [
                       "configurator",
                       "editor",
@@ -3751,7 +3751,7 @@
                     "open_issues": 27,
                     "owner": "caksoylar",
                     "repo": "keymap-drawer",
-                    "stars": 1358,
+                    "stars": 1359,
                     "topics": [
                       "keyboard",
                       "keymap-drawer",
@@ -4568,7 +4568,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T17:12:08Z",
-                "open_issues": 274,
+                "open_issues": 273,
                 "owner": "nrfconnect",
                 "repo": "sdk-nrf",
                 "stars": 1457,
@@ -4585,7 +4585,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T17:12:08Z",
-            "open_issues": 274,
+            "open_issues": 273,
             "owner": "nrfconnect",
             "repo": "sdk-nrf",
             "stars": 1457,
@@ -4847,7 +4847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:19:25.934Z",
+    "last_updated": "2026-11-21T22:21:17.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ZMK firmware resources, links, zmk-config's, zmk-drivers, tools, hardware, and community projects.",
@@ -4859,7 +4859,7 @@
       "open_issues": 6,
       "owner": "mctechnology17",
       "repo": "awesome-zmk",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome-list",
         "awesome-lists",
